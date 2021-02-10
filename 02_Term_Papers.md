@@ -180,144 +180,138 @@ If you have written a neatly structured introduction, you can now "backtrack" th
 
 </div>
 
-### Bibliographie und Anhänge
+### Bibliography and Appendices
 
-Am Ende der Arbeit steht eine vollständige Liste aller verwendeter Literatur. Dabei sollte die Bibliographie nicht mit Literatur aufgefüllt werden, die im Text nicht zitiert wurde. Falls ein Werk inhaltlich bedeutend ist, sollte es zitiert werden, andernfalls muss es auch nicht in die Literaturliste. Zur Formatierung der Literaturliste siehe den Abschnitt [Zitieren von Literatur](05_Zitieren.html#sec:zitieren).
+At the end of the paper there should be a complete list of all literature used. The bibliography should not be filled up with literature that is not cited in the text. If a publication is important in terms of content, it should be cited, otherwise it does not have to be included in the bibliography. For the formatting of the bibliography see the section [Citing Literature](05_Citing_Literature.html#sec:citing_literature).
 
-Materialreiche Arbeiten können außerdem noch einen oder mehrere Anhänge enthalten, in denen z.B. Abbildungen, Quellentexte oder Ähnliches untergebracht werden. Die Anhänge zählen dabei nicht für den Umfang der Arbeit.
+Papers that are rich in material can also contain one or more appendices, in which e.g. illustrations, source texts or similar can be placed. The appendices do not count for determining the length of the paper.
 
-### Formatierung
+### Formatting
 
-Eine Hausarbeit umfasst im BA-Studium bei Standardformatierung in der Regel ca. 12–18 Seiten bzw. 5.000–7.000 Wörter. Die verbindlichen Details werden aber von den Dozierenden jeweils mitgeteilt. Für eine lesbare Arbeit gelten folgende Richtlinien:
+A term paper in standard format usually contains about 12-18 pages or 5,000-7,000 words. However, the obligatory details are determined by the lecturers. The following guidelines apply to all papers:
 
--   Schriftgröße 12pt
+- font size 12pt 
 
--   Zeilenabstand 1,25 bis 1,5fach
+- line spacing 1.25 to 1.5 
 
--   Rechter Rand 4cm – für Anmerkungen und Korrekturen; Rand links 2cm, oben/“”unten 2–3cm
+- Right margin 4cm - for notes and corrections; left margin 2cm, top/bottom 2-3cm
 
--   Abgesetzte Überschriften mit Gliederungsziffern
+- Detached headings with section numbers
 
--   Fußnoten am Ende der Seite (keine Endnoten)
+- Footnotes at the bottom of the page (no endnotes)
 
--   Seitennummerierung ab der zweiten Seite (die Titelseite zählt als Seite 1, auf ihr erscheint aber noch keine Seitenzahl)
+- Page numbering from the second page onwards (the title page counts as page 1, but should not have a page number on it)
 
--   Text im Blocksatz mit (automatischer) Silbentrennung
+- Text in justification with (automatic) hyphenation
 
-<div class="Technik">
+<div class="Technology">
 
-Zur Formatierung einer Hausarbeit mit gängigen Textverarbeitungsprogrammen siehe im Abschnitt [Textverarbeitung](06_Textverarbeitung.html#sec:textverarbeitung). Ergänzend finden sich auch E-Tutorials auf der Website des Studiengangs unter <http://ceres.rub.de/lehre/tipps-tools/>.
+For formatting a term paper with common word processing programs see section [Word Processing](06_Word_Processing.html#sec:word_processing). 
 
 </div>
 
-### Sprache
+### Language
 
-Auch ein guter sprachlicher Ausdruck gehört zu einer gelungenen Hausarbeit. Entgegen verbreiteter Annahmen ist Sprache nicht gleich wissenschaftlich, wenn sie viele Fremdwörter und verschachtelte Sätze verwendet. Der Einsatz von Fachbegriffen sollte einen Text präziser und – für Kenner der Fachsprache, also auch für die Korrektoren – verständlicher machen, nicht unverständlicher. Achten Sie vor allem darauf, dass Sie selbst verstehen, was Sie schreiben.
+Good linguistic expression is also part of a successful paper. Contrary to common assumptions, language is not more academic if it uses many foreign words and complex sentences. The use of technical terms should make a text more precise and - for experts in the field, including the markers - more comprehensible, not less comprehensible. Above all, make sure that you yourself understand what you are writing.
 
-Formulieren Sie genau: Das Wort »man« sollte vermieden werden; präzisieren Sie, auf wen Sie sich beziehen, z.B. mit der Formulierung: »Die Verfasserin ist der Ansicht, dass …« Ebenso sollten Sie die Ich-Form vermeiden, wenn Sie Sachverhalte darstellen oder Theorien referieren. Die Ich-Form ist eigenen Argumenten oder Stellungnahmen vorbehalten.
+Be precise and specify to whom you are referring, e.g. by saying: "The author considers that ...". Likewise, you should avoid the first person when you present facts or others’ theories; the first person is reserved for your own arguments or opinions.
 
-Formulieren Sie so klar, dass man in Ihren Sätzen kein Wort mehr streichen könnte. Füllwörter wie »eigentlich«, »ziemlich«, »gewissermaßen« oder »letztlich« nehmen Ihren Argumente Überzeugungskraft, weil sie sie in ihrer Bedeutung abschwächen. Verfassen Sie Ihre Arbeit lieber so, dass alle Aussagen umfassend so gemeint sind, wie sie dort stehen. Wenn Einschränkungen zu beachten sind, sollte man diese explizieren und erläutern.
+Write in a clear way such that no more words could be deleted from your sentences. Filler words like "actually", "quite", "to a certain extent" or " eventually" take away persuasive power from your arguments because they weaken their significance. It is better to write your work in such a way that all statements are fully intended as they are written there. If there are limitations to be considered, they should be made explicit and explained.
 
-Die Argumentation der Arbeit sollte sich auch in der Sprache widerspiegeln: Kausalverbindungen sind ein wichtiges Mittel, um Ihre Argumente schlüssig zu verbinden. Ein häufiger Fehler sind allerdings Kausalverbindungen an Stellen, an die sie nicht gehören. Prüfen Sie ganz genau, ob Sätze oder Satzteile, die Sie mit »deshalb«, »trotzdem«, »angesichts dessen« oder anderen Satzpartikeln, die Bezug auf das vorangegangene nehmen, beginnen, wirklich genau dieses Verhältnis beinhalten.
+The argumentation of the work should also be reflected in the language: Causal links are an important means of connecting your arguments conclusively. However, a common mistake is to make causal links in places where they do not belong. Check very carefully whether sentences or parts of sentences that start with "therefore", "nevertheless", "in view of" or other phrases that refer to what has preceded them really do relate appropriately and clearly to what precedes.
 
-Gerade bei längeren Sätzen kommt es leicht zu fehlerhaften grammatikalischen Konstruktionen. Passen Sie also auf, dass alle Formulierungen, Anschlüsse und Bezüge korrekt sind. Ebenso ist eine korrekte und einheitliche Orthographie und Zeichensetzung wichtig.
+Particularly with longer sentences, it is easy to come across incorrect grammatical constructions. Make sure that all formulations, connectors and relations are correct. It is also important to have correct and consistent orthography and punctuation. 
 
-Zur besseren Lesbarkeit sollte der Text mit Absätzen gegliedert werden. Ein neuer Absatz sollte aber bewusst gesetzt werden, wenn ein neuer Aspekt angesprochen wird. Jeden Satz in einen eigenen Absatz zu fassen ist ebenso wenig hilfreich wie ein Text ohne Absätze.
+For improved readability, the text should be structured with paragraphs. However, a new paragraph should be deliberately added when a new aspect is addressed. Putting each sentence in a separate paragraph is just as unhelpful as a text without paragraphs.
 
-## Kriterien für die Bewertung von Hausarbeiten {#sec:bewertung}
+## Marking Criteria for Term Papers {#sec:marking}
 
-Die Dozierenden des CERES halten sich in der Bewertung schriftlicher Arbeiten an einen Kriterienkatalog. Dieser soll hier transparent gemacht werden, um den Studierenden die Selbstevaluation ihrer schriftlichen Leistungen zu ermöglichen und um die Benotung ihrer Arbeiten nachvollziehbar zu machen.
+CERES lecturers follow a catalogue of criteria when marking written work. This will be made transparent in order to enable students to self-evaluate their written performance and to make the grading of their work comprehensible.
 
-Im Prinzip sollten bereits die Arbeiten der frühen Studienphasen diesem Standard zu folgen versuchen. In vollem Umfang unterliegen diese Kriterien aber erst ab der Bachelor-Arbeit der Beurteilung. Die Kriterien sind im Einzelnen:
+Generally, the work of the early phases of study should already try to follow this standard. However, these criteria are only applied in their entirety from the BA thesis onwards. The criteria are as follows:
 
--   Qualität der Recherche
+–	Quality of research
+–	Expertise
+–	Level of reflection
+–	Consistency of argumentation
+–	Judgement
+–	Originality
+–	Form
 
--   Sachkenntnis
+The evaluation of these criteria is best illustrated using binary positive/negative pairs as follows: 
 
--   Reflexionsniveau
-
--   Konsistenz der Argumentation
-
--   Urteil
-
--   Originalität
-
--   Form
-
-Die Beurteilung dieser Kriterien ist am besten anhand von Binärpaaren zu verdeutlichen:
-
-| positiv | negativ |
+| positive | negative |
 |--------------------------------------|--------------------------------------|
-| Aus der Arbeit ist ein guter Überblick über die Literaturlage erkennbar. | Nur wenig, teilweise oder ganz veraltete Literatur herangezogen. |
-| Passende Literatur wurde nach transparenten Kriterien und mit stichhaltigem Urteil ausgewählt. | Wichtige Standardwerke wurden ignoriert. |
-|  | Nur Buchpublikationen herangezogen, wichtige Aufsätze fehlen. |
-|  | Bequemlichkeit war “Kriterium” der Literaturauswahl (auf wichtige Publikationen verzichtet, weil Fernleihe oder fremdsprachlich). |
-| Die im Literaturverzeichnis angeführte Literatur wird im Text angemessen aufgegriffen. Die Literatur wird dabei den Erfordernissen der Arbeit entsprechend selektiert eingebunden. | Große Teile der aufgeführten Literatur werden im Text nicht berücksichtigt. Die Literatur wird unselektiert und nicht der Fragestellung angemessen wiedergegeben. |
-| Die Literatur und ihr wissenschaftlicher Hintergrund wird kritisch reflektiert. | Literatur wird unkritisch übernommmen; Unwissenschaftliche Literatur wird als Quelle herangezogen, ohne entsprechend eingeordnet zu werden. |
-| Souveräner Umgang mit Begriffen und Konzepten. | Relevante Konzepte/​Begriffe wurden nicht verstanden. |
-| Zusammenhänge wurden richtig erkannt, Querverbindungen wurden gezogen. | Einordnung des behandelten Themas in den größeren Zusammenhang fehlt, ist zu vage oder falsch. |
-|  | Arbeit enthält falsche Sachinformationen. |
-| Die Arbeit ist theoretisch durchdacht. | Keine Frage- oder Problemstellung oder methodisch-theoretische Reflexion erkennbar. |
-| Metasprachliche Schlüsselbegriffe wurden definiert, fachgeschichtlich situiert und auf ihre Tauglichkeit geprüft. | Für die Theoriebildung entscheidende Begriffe wurden unreflektiert verwendet. |
-| Die einzelnen Arbeitsschritte wurden durch Methodenreflexionen transparent gemacht. | Methodenreflexion wurde nicht oder unzureichend durchgeführt. |
-|  | Mangelhafte Differenzierung, Pauschalaussagen (»Christen sind …«, »Hindus glauben …«). |
-| Einordnung der eigenen Arbeit im gegenwärtigen Fachdiskurs. | Religionswissenschaftliche Sekundärliteratur ignorieren; Fragenstellungen entwickeln, die nichts mit Religionswissenschaft zu tun haben. |
-| Innen/​Außenperspektive unterscheiden. | Aus der Innenperspektive heraus argumentieren oder gar werten und urteilen. |
-| Analytische Deskription | Normative Wertungen |
-| Religionsbegriff kontextualisieren (Mit welcher/m Kultur/​Zeit/​Raum beschäftige ich mich gerade? Wie lässt sich dort Religion identifizieren?) | Religionsbegriff unreflektiert verwenden. |
-| Diskursive Macht der wissenschaftlichen Rede über Religion reflektieren. | Existenz von Religion als gegeben hinnehmen. |
-| Die Fragestellung ist klar herausgearbeitet. Sie bezieht sich auf das gewählte Thema und ist im Rahmen der Arbeit bearbeitbar. | Es ist keine Fragestellung formuliert. Die Fragestellung ist zu breit oder zu eng gewählt |
-| Stringente Gedankenführung. Die Argumentation bezieht sich auf die gewählte Fragestellung. | Argumentationsgang ist logisch fehlerhaft. |
-|  | Das Thema wurde aus den Augen verloren; Fragestellung und Fazit passen nicht zueinander. |
-| Methode und Fragestellung der Arbeit sind aufeinander abgestimmt; die gewählte Methode lässt ein Ergebnis im Sinne der Fragestellung erwarten. | Die Methodik wurde nicht zur Fragestellung passend gewählt. |
-|  | Die Methodik wurde nicht angemessen reflektiert. |
-| Die Methode wurde sinnvoll und handwerklich sauber angewandt. | Die Durchführung weist methodische Mängel auf; Es wird keine explizite Methodik erkennbar. |
-| Es werden verschiedene Ansichten (z.B. aus der wiss. Sekundärliteratur) berücksichtigt und gegeneinander abgewogen. | Entscheidende Argumentationsbausteine werden unzureichend abgestützt; alternative Ansichten wurden ignoriert oder nicht problematisiert. |
-| Das Ergebnis der Arbeit wurde umsichtig und der Untersuchungsmethode angemessen präsentiert. | Fragestellung und Ergebnis stehen im Missverhältnis zur Untersuchungsbasis (z.B. zu weit gefasste Schlussfolgerungen werden aus einer viel zu kleinen Untersuchung gezogen). |
-| Es wird eine kreative Fragestellung oder Problemlösung entwickelt. Die Arbeit spiegelt eigene Überlegungen zum Thema wider. Das Fazit verdeutlicht die Eigenständigkeit der Arbeit. | Es sind keine oder kaum eigene Gedanken erkennbar. |
-|  | Ideenklau ist die schlimmste aller Sünden!!! Abgeschriebene oder heruntergeladene Arbeiten, die als Studienleistung eingereicht oder vorgetragen werden, werden ausnahmslos mit der Note 6 bewertet. |
-| Die Arbeit ist formal korrekt. | Zu viele Rechtschreib-, Grammatik- oder Zeichensetzungsfehler (mehr als 3 pro Seite). |
-|  | Aussagen werden nicht belegt, sind nicht überprüfbar. |
-|  | Bibliographie uneinheitlich, unsystematisch oder fehlt. |
-|  | Zitate sind formal inkorrekt (z.B. nicht wörtlich, fehlende oder unvollständige Literaturangaben). |
-|  | Arbeit ist zu lang oder zu kurz. |
+| A good overview of the state of literature can be detected. | Only little, partly or completely outdated literature was consulted. |
+| Appropriate literature was selected according to transparent criteria and with reasonable judgement. | Important standard literature was ignored. |
+|  | Only books were used, important articles are missing. |
+|  | Convenience appears to be the criterion for the selection of literature (important publications were ignored because of interlibrary loans or language barriers). |
+| The literature cited in the bibliography is taken up appropriately in the text. The literature is selected according to the requirements of the paper. | Large parts of the listed literature are not considered in the text. The literature is haphazardly selected and does not relate to the question. |
+| The literature and its academic background are critically reflected. | Literature is adopted uncritically; non-academic literature is used as a source without being classified accordingly. |
+| Competent handling of terms and concepts. | Relevant concepts/ terms were not properly understood. |
+| Connections were correctly identified, cross-connections were drawn. | Putting the topic under discussion into a larger context is too vague or wrong. |
+|  | Paper contains incorrect factual information. |
+| The paper is theoretically well thought out. | No research question or issue or methodological-theoretical reflection recognizable. |
+| Key metalinguistic terms were defined, historically situated and tested for their suitability. | Terms that are crucial for theory formation were used without reflection. |
+| The individual stages of analysis were made transparent through methodological reflections. | Methodological reflection was absent or insufficient. |
+|  | Lack of differentiation, generalising statements ("Christians are ...", "Hindus believe ..."). |
+| Positioning of one's own work within current discourse around the subject. | Ignoring secondary literature on religious studies; developing questions that have nothing to do with religious studies. |
+| Distinguishing between insider and outsider perspective. | Arguing or even evaluating and judging from an insider perspective. |
+| Analytic description | Normative assessments |
+| Contextualize the concept of religion (Which culture/​time/​space am I dealing with right now? How can religion be identified there?) | Using the concept of religion without reflection. |
+| Reflecting the discursive power of academic speech about religion. | Taking the existence of religion for granted. |
+| The question is clearly formulated. It refers to the chosen topic and can be worked on within the framework of the paper. | No question has been formulated. The question is too broad or too narrow. |
+| Coherent line of thought. The argumentation refers to the selected question. | Argumentation is logically incoherent. |
+|  | The topic was lost sight of; question and conclusion do not fit together. |
+| Method and research question are matched to each other; the chosen method allows a result in keeping with the research question. | The method was not chosen to suit the question. |
+|  | The method was not adequately reflected. |
+| The method was applied in a sensible and technically correct manner. | The implementation has methodological shortcomings; no explicit method is apparent. |
+| Different views (e.g. from the academic secondary literature) are considered and weighed against each other. | Crucial elements of argumentation are insufficiently supported; alternative views were ignored or not problematized. |
+| The result was presented thoughtfully and appropriately with regard to the research method. | Question and result are not in accordance with the basis of the research (e.g. too broad conclusions are drawn from much too little research). |
+| A creative question or solution is developed. The paper reflects individual thoughts on the topic. The conclusion illustrates the autonomy of the work. | No or hardly any individual thoughts are recognizable. |
+|  | Stealing ideas is the worst of all sins!! Copied or downloaded papers, which are submitted or presented as a student’s own assignment, are without exception graded as 6. |
+| The paper is formally correct. | Too many spelling, grammar or punctuation mistakes (more than 3 per page). |
+|  | Statements are not backed up, cannot be verified. |
+|  | Bibliography inconsistent, unsystematic or missing. |
+|  | Quotations are formally incorrect (e.g., miscopied, missing or incomplete bibliography). |
+|  | Paper is too long or too short. |
 
-<div class="Hinweis">
+<div class="Advice">
 
-Eine frühzeitige Absprache mit dem Dozenten über eine mögliche Hausarbeit ist unbedingt erforderlich. Hierbei sollten das *Thema* abgesegnet werden, eine *Abgabefrist* ausgemacht werden und ggf. die *Formalia* abgesprochen werden. Je nach Dozent werden dann auch Literaturhinweise gegeben, die einen Einstieg ermöglichen.
-
-</div>
-
-<div class="Merke">
-
-1.  Habe ich ein gut eingegrenztes Thema mit einer konkreten Fragestellung?
-2.  Ist der Aufbau meiner Hausarbeit logisch, nachvollziehbar und ist sie der Fragestellung angemessen?
-3.  Habe ich mein Thema mit dem Dozenten abgesprochen?
-4.  Handelt es sich bei den Funden meiner Literaturrecherche um wissenschaftliche Literatur?
-5.  Habe ich alle für die Fragestellung und das Thema relevante Literatur gefunden?
-6.  Habe ich die vorgegebenen Formalia berücksichtigt?
-7.  Welche Zitierweise benutze ich und habe ich einheitlich zitiert?
-8.  Habe ich ein Literaturverzeichnis erstellt?
-9.  Habe ich Korrektur gelesen und Korrektur lesen lassen?
+Early consultation with the lecturer about a possible term paper is absolutely necessary. The topic should be approved, a deadline set and, possibly, the formalities agreed upon. Depending on the lecturer, suggested literature will be supplied to help you get started.
 
 </div>
 
-## Plagiarismus
-
-Fremdes geistiges Eigentum als eigene Gedanken auszugeben, ist im wissenschaftlichen Bereich – in dem auch Sie als Studierende agieren – kein Kavaliersdelikt mehr. Plagiate werden inzwischen an allen Universitäten empfindlich geahndet. Auch an der Ruhr-Universität Bochum gilt: Nicht nur werden selbstverständlich alle Arbeiten, in denen sich Plagiate finden, als »nicht ausreichend« gewertet, darüber hinaus müssen Plagiate dem Prüfungsamt und damit dem Justiziariat gemeldet werden. Letzteres kann über ein Ordnungswidrigkeitsverfahren Geldbußen sowie in schwerwiegenden Fällen den Ausschluss vom Studium veranlassen.
-
-Im wissenschaftlichen Betrieb gelten verschiedene Tatbestände als Plagiate: Das Einreichen einer Arbeit, die von jemand anderem für den Studierenden erstellt wurde (Ghostwriting) oder das Einreichen einer anderen fremden Arbeit unter dem eigenen Namen (Vollplagiat), die Übernahme von Textteilen aus anderen Werken – oder dem Internet – ohne entsprechende Quellenangaben (Teilplagiat) und das mehrfache Einreichen einer eigenen Arbeit zu unterschiedlichen Anlässen (Selbstplagiat).
-
-Es ist daher auch extrem wichtig, Übernahmen aus anderen Werken korrekt zu zitieren und zu belegen – ohne angemessene Kenntlichmachung werden auch übernommene und ggf. leicht veränderte Paraphrasen aus den Werken anderer Autoren zu Plagiaten.
-
-<div class="Hinweis">
-
-Auch für die Beurteilung Ihrer Arbeit ist es wichtig, dass Sie sauber kennzeichnen, welche Gedanken Sie aus einem anderen Werk übernommen haben, und was Ihre eigenen Analysen oder Schlussfolgerungen sind. Die Eigenleistung ist wichtiger Bestandteil einer Hausarbeit, Sie tun sich also selbst keinen Gefallen, wenn Sie den Betreuer, der ihre Arbeit korrigiert, darüber im Dunkeln lassen, was die Eigenleistung darstellt.
+<div class="Remember">
+    
+1.	Do I have a well-defined topic with a concrete question?
+2.	Is the structure of my paper logical, comprehensible and appropriate to the question?
+3.	Have I consulted the lecturer about my topic?
+4.	Are the findings of my literature consultation academic literature?
+5.	Have I found all literature relevant to the question and the topic?
+6.	Have I taken into account the given formalities?
+7.	Which citation style do I use and have I cited consistently?
+8.	Did I create a bibliography?
+9.	Have I proofread the assignment and had it proofread?
 
 </div>
 
-<div class="Tipp">
+## Plagiarism
 
-Wenn Sie über längere Strecken die Argumentation eines anderen Autor indirekt zitieren, sollten Sie dies neben der Verwendung umfassender Belege durch den Einsatz des Konjunktivs deutlich machen. Ihren Anteil an der Arbeit können Sie durch eindeutige Formulierungen an den wichtigen Stellen herausstellen (»ich habe gezeigt, dass …«; »man kann nun also schlussfolgern, dass …«).
+In the field of academia - in which you are also involved as a student - it is no longer a trivial offence to pass off someone else's intellectual property as your own thoughts. Plagiarism is now severely punished at all universities. At the Ruhr-Universität Bochum the following applies: Not only are all papers in which plagiarism can be found considered "insufficient", but plagiarism must also be reported to the examination office and thus to the legal department. The latter can initiate punitive administrative proceedings to impose fines and, in serious cases, result in exclusion from university.
+
+In the academic world, plagiarism includes various offences: submitting a work that someone else has written for the student (ghostwriting) or submitting someone else's work under one's own name (full plagiarism), taking text from other works - or from the Internet - without citation (partial plagiarism) or submitting one's own work several times on different occasions (self-plagiarism).
+
+It is therefore also extremely important to correctly cite and substantiate any passages from other works - without adequate citation, even adapted and possibly slightly modified paraphrases from the works of other authors become plagiarism.
+
+<div class="Advice">
+
+It is also important for the marking of your work that you clearly mark which ideas you have taken from another work and which are your own analysis or conclusions. Your personal contribution is an important part of a paper, so you are not doing yourself any favors if you leave the marker unsure about what your personal contribution is.
+
+</div>
+
+<div class="Tip">
+
+If you indirectly quote the argument of another author over longer stretches, you should make this clear by using the subjunctive in addition to the use of clearly indicated evidence. You can emphasize your part in the work by using clear formulations at the important points ("I have shown that ..."; "One can now conclude that ...").
 
 </div>
