@@ -24,8 +24,7 @@ represents an independent academic achievement, something that is reflected in t
 For a term paper a student should work independently on a chosen topic. This includes the litera-ture consultation
 and presentation of the state of research, as well as the formulation of a clear structure and answering an
 independently developed research question. A term paper must also meet certain formal requirements, such as
-correct citation style and the creation of a bibliography. For more details see section [Term Papers]
-(02_Term_Papers.html#sec:term_papers).
+correct citation style and the creation of a bibliography. For more details see section [Term Papers](02_Term_Papers.html#sec:term_papers).
 
 A presentation (_Referat_) has a different objective than a term paper. It should not so much deal with a question, which was developed by oneself, but rather give an overview of a certain topic. However, the formal requirements are the same as for a term paper.
 
@@ -45,7 +44,7 @@ In university, there are also different types of protocols - experimental or obs
 
 <div class="Tip">
 
-Write the protocol as soon as possible after the session - your notes will be more mean-ingful when the memory is still fresh!  If you have any questions or difficulties in under-standing, contact the lecturer or the presenters as soon as possible, preferably directly af-ter the session.
+Write the protocol as soon as possible after the session - your notes will be more mean-ingful when the memory is still fresh!  If you have any questions or difficulties in under-standing, contact the lecturer or the presenters as soon as possible, preferably directly after the session.
 
 </div>
 
