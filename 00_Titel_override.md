@@ -1,8 +1,7 @@
 ---
-title: Wissenschaftliches Arbeiten in der Religionswissenschaft
-subtitle: Ein Leitfaden
+title: A Guide to Academic Writing in Religious Studies
 author:
 - Frederik Elwert
 - Anna Neumaier
-lang: de
+lang: en
 ---
