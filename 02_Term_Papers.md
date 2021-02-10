@@ -52,12 +52,19 @@ An initial outline can be established immediately after the research question ha
 The outline of your Scientology term paper might now look like this:
 
 1. Introduction
-2. (Descriptive part) 
+
+2. (Descriptive part)
+
     2.1 About Scientology 
+    
     2.2 Overview of conflicts and court trials that have taken place
+    
 3.(Analytical part) 
-    3.1 Analysis of documents and legal rulings 
+
+    3.1 Analysis of documents and legal rulings
+    
     3.2 Reference to religious studies literature on Scientology
+    
 4.Conclusion
 
 </div>
@@ -98,17 +105,17 @@ A term paper must meet certain formal criteria. In addition, there are a number 
 
 At the front of each term paper there must be a cover sheet containing several important pieces of information. The cover sheet should present this information as clearly as possible. It must contain:
 
--Name of the university, faculty and subject of study
+- Name of the university, faculty and subject of study
 
--purpose of the paper (e.g. "Term Paper as Module Examination ..." or "essay as examination for the module part ...") 
+- purpose of the paper (e.g. "Term Paper as Module Examination ..." or "essay as examination for the module part ...") 
 
--title, course number and semester of the seminar/module as well as the names of the lecturers
+- title, course number and semester of the seminar/module as well as the names of the lecturers
 
--title of the paper
+- title of the paper
 
--name, matriculation number, combination of subjects, number of semesters, address, telephone number, and email address
+- name, matriculation number, combination of subjects, number of semesters, address, telephone number, and email address
 
--date on which the work is submitted
+- date on which the work is submitted
 
 The figure shows an example of a cover sheet.
 
