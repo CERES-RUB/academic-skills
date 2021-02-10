@@ -1,82 +1,90 @@
 ---
-title: Typen wissenschaftlicher Texte
+title: Types of Academic Texts  
 layout: default
 order: 1
 contents: true
 ---
 
-# Typen wissenschaftlicher Texte
+# Types of Academic Texts
 
-Wissenschaft findet überwiegend im Medium der Sprache statt. Auch im Studium spielen Texte eine zentrale Rolle: Wissen wird in Form von Texten vermittelt, wissenschaftliche Quellen werden gelesen, eingeordnet und angeeignet. Die Darstellung des Gelernten erfolgt auch in Textform, z.B. in Hausarbeiten und Klausuren.
+Academia takes place predominantly in the medium of language, and texts will play a central role in your studies:
+knowledge is conveyed in the form of texts, academic sources are read, classi-fied, and acquired. What has been
+learned is also presented in written form, e.g. in term papers (Hausarbeiten) and exams.
 
-## Texte als Studienleistungen {#sec:studienleistungen}
+## Types of Assignments {#sec:assignemnts}
 
-Ein großer Teil an Studienleistungen wird in der Form von Texten erbracht. Um die Anforderungen der verschiedenen Textgattungen erfüllen zu können, muss man sie kennen. Die Texte, die während des Studiums geschrieben werden, unterscheiden sich nicht nur hinsichtlich ihrer Länge, sondern auch in Zielsetzung, Aufbau und Stilmitteln.
+A large component of course assignments are in written form. In order to be able to meet the re-quirements of the
+various kinds of written assignment, one must be familiar with them. Assign-ments written during the course of
+study differ not only in length, but also in their purpose, struc-ture and style. 
 
-Die längste Form einer Studienleistung – abgesehen von der Abschlussarbeit – ist die Hausarbeit. Hausarbeiten umfassen im BA-Studium in der Regel 12–18 Seiten, wobei üblicherweise jeweils sechs Seiten mit 1 LP kreditiert werden. Die Hausarbeit stellt eine eigenständige wissenschaftliche Leistung dar. Dies spiegelt sich auch in den Anforderungen wider.
+The longest form of assignment - apart from the final thesis - is a term paper (Hausarbeit). Term papers in BA
+studies usually comprise 12-18 pages, whereby usually six pages are credited with 1 CP each. The term paper
+represents an independent academic achievement, something that is reflected in the requirements.
 
-In einer Hausarbeit soll selbstständig ein gewähltes Thema bearbeitet werden. Dies umfasst die Literaturrecherche und Darstellung des Forschungsstandes ebenso wie die Erstellung einer sauberen Gliederung und die Entwicklung und Beantwortung einer eigenständigen Fragestellung. Auch formal muss eine Hausarbeit bestimmten Anforderungen genügen, wie z.B. der korrekte Beleg von Zitaten und die Erstellung eines Literaturverzeichnisses. Näheres siehe im Abschnitt [Wissenschaftliche Hausarbeiten](02_Hausarbeiten.html#sec:hausarbeiten).
+For a term paper a student should work independently on a chosen topic. This includes the litera-ture consultation
+and presentation of the state of research, as well as the formulation of a clear structure and answering an
+independently developed research question. A term paper must also meet certain formal requirements, such as
+correct citation style and the creation of a bibliography. For more details see section [Term Papers]
+(02_Term_Papers.html#sec:term_papers).
 
-Die Ausarbeitung eines Referats hat eine andere Zielsetzung als eine Hausarbeit. Es soll weniger eine eigene Fragestellung bearbeitet als viel mehr ein Überblick über ein bestimmtes Thema gegeben werden. Die formalen Anforderungen sind jedoch die selben wie bei einer Hausarbeit.
+A presentation (_Referat_) has a different objective than a term paper. It should not so much deal with a question, which was developed by oneself, but rather give an overview of a certain topic. However, the formal requirements are the same as for a term paper.
 
-Es kann übrigens natürlich auch verabredet werden, in Erweiterung eines Referats eine Hausarbeit zu schreiben, die dann sehr wohl eine eigene Fragestellung umfasst.
+It is sometimes possible to arrange to write a term paper as an extension of a presentation, which should then address an independently developed research question. See more details in section [Lectures and Presentations](03_Presentations.html#sec:presentations).
 
-Näheres siehe im Abschnitt [Wissenschaftliche Vorträge und Referate](03_Referate.html#sec:referat).
+An essay is a discussion of a given topic. It is less formal and less strict in structure than a term paper. An explicit structure is not usually necessary, and the state of research does not have to be comprehensively presented. If the essay only refers to one or two sources, the citations can also become less important.
 
-Ein Essay stellt eine Auseinandersetzung mit einem gegebenen Thema dar. Der Essay ist dabei formal und im Aufbau weniger streng als eine Hausarbeit. So ist eine explizite Gliederung in der Regel entbehrlich, ebenso muss meist nicht der Forschungsstand umfassend wiedergegeben werden. Wenn sich der Essay nur auf einen oder zwei Texte bezieht, können auch die Quellennachweise in den Hintergrund treten.
+An important feature of the essay is the well-argued examination of a topic. While questions of structure are less important, stress is accordingly placed on the quality of argumentation. The essay serves to test argumentative strategies and to present one's position. An academic position is not to be confused with an opinion: the essay should present a position which the author takes as their own and which is justified soundly in the essay’s arguments. It thus trains its author to develop and organize their own ideas, and at the same time to deal critically with other points of view.
 
-Charakteristikum des Essays ist die argumentative Auseinandersetzung mit einem Thema oder einer These. Hier kann freier agiert werden, allerdings stellt ein Essay dadurch auch höhere Ansprüche an die Stringenz der Argumentation. Der Essay dient der Erprobung argumentativer Strategien und der Darstellung eines eigenen Standpunkts. Ein Standpunkt ist dabei nicht mit einer Meinung zu verwechseln: Der Essay soll auf eine inhaltliche Position hinführen, die die Verfasserin oder der Verfasser vertritt und deren Begründung sich aus dem Essay ergibt. In besonderer Weise übt der Essay seinen Verfasser also auch darin, eigene Ideen zu entwickeln und zu organisieren, und sich gleichzeitig mit anderen Standpunkten kritisch auseinanderzusetzen.
+<div class="Tip">
 
-<div class="Tipp">
-
-Überlegen Sie sich zuerst die Gliederung Ihrer Argumente, bevor Sie mit dem Schreiben anfangen. Für eine klare Strukturierung des Textes und sprachliche Präzision kann es hilfreich sein, wenn Sie sich vor der Abfassung ein kurzes Stichwort-»Skript« anlegen, das den roten Faden Ihrer Schreibarbeit darstellt. Dies ist auch bei Hausarbeiten oder Referaten nützlich.
+Think about the structure of your arguments before you start writing. For a clear structure and precise language, it can be helpful to create a short outline or mind map which can form the central thread of your writing. This is also useful for term papers or presentations.
 
 </div>
 
-Auch im Rahmen universitärer Arbeit gibt es verschiedene Arten von Protokollen – Versuchs- oder Beobachtungsprotokolle in der Forschung, aber auch Seminarprotokolle, die als Mischung von Verlaufs- und Ergebnisprotokollen in der Regel eine Seminarsitzung festhalten. Sie sichern damit die Ergebnisse der Sitzung für alle Kursteilnehmer, und müssen daher auch für denjenigen verständlich und nachvollziehbar sein, der in der Sitzung nicht anwesend war. Gleichzeitig stellen sie oft eine gute Möglichkeit der Rückmeldung an den Dozierenden dar, welche der besprochenenen Inhalte vom Kurs behalten und verstanden wurden. Nicht zuletzt übt das Verfassen eines Protokolles Sie darin, auch ihre »privaten« täglichen Seminarmitschriften möglichst effizient und präzise anzufertigen. Das Seminarprotokoll muss dabei nicht streng und detailreich den Verlauf des Geschehens wiedergeben, Vorrang bei der Abfassung hat die inhaltliche Zusammenfassung und Strukturierung der Kernpunkte der Seminarinhalte. Aufgenommen werden können dafür sowohl Argumente aus den Redebeiträgen aus dem Plenum als auch wichtige Stichpunkte aus gehaltenen Referaten oder Anmerkungen des Dozenten. Die Übernahme von Tafelbildern oder anderen Grafiken kann dies sinnvoll unterstützen oder bündeln. Aufgenommen werden sollten darüber hinaus zum Einen ggf. offene Fragen, die am Ende der Sitzung formuliert werden, und zum Anderen die Literaturangaben der Texte, die für die Seminarsitzung grundlegend waren.
+In university, there are also different types of protocols - experimental or observation protocols in research, but also protocols of seminars, which usually record a session as a mixture of progress and result protocols. This ensures that the results of the meeting are available to all participants, and must therefore be comprehensible to anyone who was not present at the meeting. They are also often a good way of giving feedback to the lecturer, showing which components of the class were absorbed and understood. Meanwhile, writing protocols is a good way of making your per-sonal notes as efficient and precise as possible. A protocol does not have to reflect the course of events in a strict and detailed manner, rather priority is given to summarizing and structuring the key points of the seminar/lecture. This may involve including points made by participants in a class as well as the content of presentations or a lecture. Record should be included of open questions that might be formulated at the end of the session, and of any key sources and/or litera-ture involved. Use of diagrams may often be a helpful tool.
 
-<div class="Tipp">
+<div class="Tip">
 
-Verfassen Sie das Protokoll möglichst direkt im Anschluss an die Sitzung – Ihre Stichpunkte sind im Zweifelsfall aussagekräftiger, solange Sie sich noch an die Zusammenhänge erinnern. Kontaktieren Sie bei Verständnisschwierigkeiten oder offenen Fragen zeitnah den Dozierenden bzw. die Referenten der Sitzung, am besten direkt im Anschluss der Sitzung.
+Write the protocol as soon as possible after the session - your notes will be more mean-ingful when the memory is still fresh!  If you have any questions or difficulties in under-standing, contact the lecturer or the presenters as soon as possible, preferably directly af-ter the session.
 
 </div>
 
-Die Textzusammenfassung oder das Exzerpt stellen wie das Protokoll keine eigenständige wissenschaftliche Leistung dar. Das Ziel einer Zusammenfassung ist es, die Kernaussagen eines Textes in möglichst knapper und präziser Form wiederzugeben. Näheres siehe im Abschnitt [Exzerpte](04_Literatur.html#sec:exzerpte).
+Like the protocol, the text summary or excerpt does not constitute an independent academic achievement. The aim of a summary is instead to reproduce the core statements of a text in as concise and precise a form as possible. For more details see the section [Summaries](04_Literatur.html#sec:exzerpte).
 
-Darüber hinaus gibt es natürlich noch andere Formen von Studienleistungen. Dies können beispielsweise Rezensionen, Poster oder Wikipedia-Artikel sein. In jedem Fall empfiehlt es sich, die zu erbringende Leistung gut mit den Dozierenden abzusprechen, um wechselseitige Missverständnisse zu vermeiden.
+There are additional forms of written assignment. These can be, for example, reviews, posters or Wikipedia articles. In all cases it is advisable to discuss the performance requirements with the lecturer in order to avoid any misunderstandings.
 
-<div class="Hinweis">
+<div class="Important Note">
 
-Im Dokumentenkopf aller Studienleistungen müssen in dieser oder einer ähnlichen Form folgende Angaben aufgeführt werden:
+The following information must be included in the document header of all written assign-ments in this or a similar form:
 
 Ruhr-Universität Bochum
 
-Centrum für Religionswissenschaftliche Studien (CERES)
+Center for Religious Studies (CERES)
 
-Studiengang Religionswissenschaft
+Course of Studies: MA Religious Studies
 
-&lt;Name der Veranstaltung&gt; &lt;Semester&gt;
+&lt;Name of the course&gt; &lt;Semester&gt;
 
-&lt;Name des/der Dozenten/-in&gt;
+&lt;Name of the lecturer&gt;
 
-&lt;Name des/der Verfassers/-in&gt;
+&lt;name of the author(s)&gt;
 
-&lt;Datum&gt;
+&lt;Date&gt;
 
 </div>
 
-## Formen wissenschaftlicher Literatur {#sec:formen}
+## Forms of Academic Literature {#sec:forms}
 
-Neben den selbst zu verfassenden Texten spielen im Studium die Texte wissenschaftlicher Autoren eine zentrale Rolle. Dabei gibt es verschiedene Formen, in denen einem wissenschaftliche Texte begegnen können.
+In addition to the assignments to be written by students themselves, texts written by scholars play a central role in their studies. Such academic literature can take a variety of forms:
 
-Die klassische Form des wissenschaftlichen Textes ist die Monografie, das eigenständige Buch. Monografien werden von einem oder mehreren Autoren zu einem Thema verfasst. Die großen Qualifikationsarbeiten wie Dissertation (Doktorarbeit) und Habilitationsschrift werden in der Form von Monografien veröffentlicht.
+The classic form of the academic text is the monograph, the independent book. Monographs are written by one or more authors on a particular topic. The major academic qualifications such as the doctoral thesis and the habilitation thesis are published in the form of monographs.
 
-Ein Sammelband stellt eine Sammlung von Aufsätzen verschiedener Autoren zu einem übergeordneten Thema dar. In der Regel bezieht man sich auf einzelne Artikel aus einem Sammelband, nicht auf den Band insgesamt.
+An anthology or edited volume is a collection of essays by different authors based around an overall topic. Usually, one refers to individual articles from an anthology, not to the volume as a whole.
 
-Periodisch veröffentlichte Zeitschriften beinhalten verschiedene Aufsätze unterschiedlicher Autoren. Gemeinsamkeit ist oft nur das Fachgebiet der Zeitschrift selbst, es gibt aber auch thematisch ausgerichtete Sonderausgaben von Zeitschriften. Der Übergang von einer Zeitschrift zu einem Sammelband ist dann fließend.
+Periodicals or journals contain various articles by different authors. The only thing they have in common is often the subject area of the journal itself, but there also exist special issues of jour-nals on a particular theme. Such issues are thus very similar to anthologies.
 
-Handbücher unterscheiden sich von Sammelbänden dadurch, dass die Artikel weniger aktuelle Forschungsbeiträge der Autoren darstellen, als vielmehr den Stand der Forschung zu einem Thema darlegen wollen. Auch sind die Artikel in Handbüchern meist kürzer.
+Manuals differ from anthologies in that the articles they contain are not primarily current research contributions by the authors, rather they present the state of research on a given topic. Also, the articles in manuals are usually shorter.
 
-Lexika umfassen eine große Zahl kurzer, meist alphabetisch sortierter Artikel.
+Dictionaries contain a large number of short articles, usually sorted alphabetically.
 
-Eine Rezension ist eine Besprechung einer Monographie, eines Sammelbandes oder eines anderen Werks. Rezensionen enhalten sowohl eine kurze inhaltliche Darstellung des besprochenen Werks, als auch eine kritische Auseinandersetzung vor dem Hintergrund des aktuellen Forschungsstands.
+Another category is reviews, whether of monographs, anthologies or other works. They contain both a brief description of the content of the reviewed work and a critical analysis thereof with re-gard to the current state of research.
