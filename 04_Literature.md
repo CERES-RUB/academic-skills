@@ -7,7 +7,7 @@ contents: true
 
 # How to Deal with Literature {#sec:literature}
 
-## Literature Consultation {#sec:consultation}
+## Literature Consultation {#sec:literature_consultation}
 
 The literature consultation for a paper, a presentation or any other work is an important part of the assignment. Therefore, this research should be carried out on one' s own. Finding, viewing and evaluating the available literature is an important skill acquired during the course of study. However, after you have conducted an initial survey, you can (and should) discuss your findings with the lecturer. In this way you also avoid reading too many texts that you cannot use in the end.
 
