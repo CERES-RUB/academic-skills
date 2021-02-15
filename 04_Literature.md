@@ -109,17 +109,17 @@ If you document your search process, you may save yourself some work. Note down 
 
 An important skill that you will need to learn during your studies is the skillful handling of large amounts of academic literature and a quick and reliable assessment of its utility for your needs. This is also a matter of practice; however, we would like to give you some tips at this point:
 
-·	You can already see from the cover and/or the table of contents what the aim of the book is: is it a research study or a teaching book; does it provide an overview or does it go into a topic in depth?
+- You can already see from the cover and/or the table of contents what the aim of the book is: is it a research study or a teaching book; does it provide an overview or does it go into a topic in depth?
 
-·	A basic rule: not everything that can be found in university libraries is of high academic quality. Here you will find both publications of popular science as well as normative publications of a specific publisher. Always critically examine the premises, style and argumentation of a work.
+- A basic rule: not everything that can be found in university libraries is of high academic quality. Here you will find both publications of popular science as well as normative publications of a specific publisher. Always critically examine the premises, style and argumentation of a work.
 
-·	Who is the author of the selected work? From what discipline or school are they from? What else have they published and what are their main areas of work?
+- Who is the author of the selected work? From what discipline or school are they from? What else have they published and what are their main areas of work?
 
-·	When is the publication date? Is it sufficiently current for the topic? Does it possibly originate from a context/era that might affect its arguments (e.g. colonialism, National Socialism)?
+- When is the publication date? Is it sufficiently current for the topic? Does it possibly originate from a context/era that might affect its arguments (e.g. colonialism, National Socialism)?
 
-·	In which series or publishing house did the publication appear or in which journal did the article appear? What does this series/ this publishing house/ this journal stand for? Who is the editor?
+- In which series or publishing house did the publication appear or in which journal did the article appear? What does this series/ this publishing house/ this journal stand for? Who is the editor?
 
-·	How detailed, up-to-date and academic is the bibliography? To which disciplines does the author refer?
+- How detailed, up-to-date and academic is the bibliography? To which disciplines does the author refer?
 
 ### Reading Techniques {#sec:reading_techniques}
 
@@ -151,9 +151,9 @@ The most important reading method is analytical reading. The aim is to understan
 
 When reading the text, it is useful to work with markings and notes in the margins. In this way, important and unimportant things are distinguished from each other while reading and the content can be more easily absorbed. It also makes it easier to re-read the text at a later time. Three forms of annotation can be distinguished:
 
-·	**Marking:** Either marking with a highlighter or underlining with pencil or crayon. You can also use different colors for different meanings, e.g. red=important, black=“Terms and definitions”, etc.
+- **Marking:** Either marking with a highlighter or underlining with pencil or crayon. You can also use different colors for different meanings, e.g. red=important, black=“Terms and definitions”, etc.
 
-·	**Non-linguistic annotations:** Small symbols can be used to characterize text passages. This can be done directly in the text or in the margin. Examples can be:
+- **Non-linguistic annotations:** Small symbols can be used to characterize text passages. This can be done directly in the text or in the margin. Examples can be:
 
     | Symbol | Meaning      |
     |:-------:|:---------------|
@@ -163,7 +163,7 @@ When reading the text, it is useful to work with markings and notes in the margi
     | 1.2.3.  | Enumeration     |
     |   ⁈     | Contradiction    |
 
-·	**Linguistic notes:** Short remarks and notes on the contents of a paragraph can be noted directly in the margin. More detailed thoughts can also be noted on the back of the text.
+- **Linguistic notes:** Short remarks and notes on the contents of a paragraph can be noted directly in the margin. More detailed thoughts can also be noted on the back of the text.
 
 Markings and annotations should of course only be made on texts that belong to you personally. Therefore, it makes sense to work with photocopies instead of borrowed books. Texts can also be archived for later reading.
 
@@ -171,7 +171,7 @@ Markings and annotations should of course only be made on texts that belong to y
 
 In order to gain an overview of the core contents of a text in a short time, there are various reading strategies:
 
-·	**Selective reading:** With selective reading only parts of the text are read. The sections to be read are selected in such a way that the central information can be captured as far as possible. If necessary, additional sections can then be consulted. The following procedure can be used for guidance:
+- **Selective reading:** With selective reading only parts of the text are read. The sections to be read are selected in such a way that the central information can be captured as far as possible. If necessary, additional sections can then be consulted. The following procedure can be used for guidance:
 
 1. First, look at the table of contents, if available. If there is no table of contents (e.g. for articles), the subheadings can be consulted. In this way it can be seen how the author has arranged the topic and which sections of the text are relevant for your own work.
 
@@ -183,9 +183,9 @@ In order to gain an overview of the core contents of a text in a short time, the
 
 If you have a specific focus in terms of content or methodology, for example in relation to a paper or a presentation, the text can be read from a certain angle and irrelevant passages can be omitted. It can be helpful to cross out passages that are not thematically relevant with a pencil. An important additional source of assistance is the keyword index, if available.
 
-·	**Searching reading:** This type of reading aims to read a text as quickly as possible and still obtain important information. You should be clear beforehand which words or terms you want to find. The text is then searched for them and, if the terms do not occur, it need not be consulted further.
+- **Searching reading:** This type of reading aims to read a text as quickly as possible and still obtain important information. You should be clear beforehand which words or terms you want to find. The text is then searched for them and, if the terms do not occur, it need not be consulted further.
 
-·	**Cursory reading:** Also a fast method. As with the searching method, more precise details are neglected. The point is to grasp the broader context and meaning of a text. As a result of this reading process, it should be clear which questions are addressed in the text. With this technique, the eyes only scan the text, not reading line by line. It is recommended to write down one or two key points per page.
+- **Cursory reading:** Also a fast method. As with the searching method, more precise details are neglected. The point is to grasp the broader context and meaning of a text. As a result of this reading process, it should be clear which questions are addressed in the text. With this technique, the eyes only scan the text, not reading line by line. It is recommended to write down one or two key points per page.
 
 ![Schematic illustration of cursory reading](images/Kursorisches_Lesen.png)
 
