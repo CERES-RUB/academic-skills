@@ -30,8 +30,11 @@ _Preparation of a class or the organization of a session_ means engaging an enti
 In addition, consideration should be given to the form in which the participants are involved. The following options are possible, though this is not an exhaustive list:
 
 –	group work with subsequent presentation of the results
+
 –	questions about a text
+
 –	joint preparation of a text or a topic with the inclusion of black- or smart boards
+
 –	a quiz, for example, at the end of the lesson
 
 ## Structure of the Presentation {#sec:structure}
@@ -41,7 +44,9 @@ Depending on the role of the presentation in the design of the seminar, presenta
 In principle, a presentation has the same academic demands as other works. The following requirements, therefore, still apply:
 
 –	Formulation of a question or the objective of the presentation.
+
 –	Citation of sources by means of a bibliography either in the handout or at the end of the presentation.
+
 –	Critical handling of the relevant texts, sources and terms.
 
 Besides that, however, a presentation has a more introductory character, resulting in some differences to a written paper. A detailed presentation of the state of research can usually be left out – what is more important is the comprehensible communication of the core contents. The presentation can be based on the following rough outline - from which, depending on the type of presentation, it is possible to deviate in individual cases.
@@ -49,15 +54,21 @@ Besides that, however, a presentation has a more introductory character, resulti
 1.	Introduction
 
 –	Beginning: this is your opportunity to arouse the interest of your listeners. Start with a suitable example, a question about the course, a link to what has been said in the seminar so far, to general relevant debates or to some other material - as long as it introduces the presentation topic in a meaningful way, you are quite free to choose.
+
 –	Presentation of the topic: Don't just state your topic, but also your intention. Do you really only want to present the text? Or do you want to answer more general academic or seminar-related questions? What is the benefit of your presentation?
+
 –	Presentation of the structure: Do not leave your listeners disoriented. Explain and, if necessary, give reasons for the steps you follow. This will also help the listeners to get back into the discussion, should they become distracted at any point. Your outline should therefore also be supplied in written form, e.g. on the handout. But you can also give regular verbal "signposts" during the course of the presentation ("after I have shown that ... I will come to the 3rd point").
 
 2.	Main part
 
 –	Introduction of the relevant authors if necessary. It is seldom useful to give a whole short presentation on the biographies of the authors. Rather, this part should be based on what is relevant to the topic of the presentation as a whole: these are most likely to be authors’ academic socialization, academic positions and discontinuities or famous teachers. Biographical data are exciting as long as they establish a connection to a particular epoch of academic discourse and are able to better embed positions in terms of content. You may want to discuss this with the lecturer.
+
 –	Central contents of the presentation/the presented text: Never reproduce complete and uncritically selected contents. Think about what is really important for the question and objective of the presentation, as you would when writing a paper. What is the context and the structure of the argumentation of the text?
+
 –	With some (bad) presentations, it becomes clear to all participants quite quickly that the speakers themselves did not understand the presented contents in depth. Lines of snippets of content ("and then Weber says ... and then ... and then he says ...") show that the argument has not been understood and therefore cannot be reproduced clearly. This cardinal error can easily be avoided by dealing with the contents to be presented at an early stage and then, if necessary, using the consultation hours of the lecturer to agree on the contents of the presentation. This is exactly what consultation hours are for, and this procedure is much more sensible for all participants than suffering through an inadequate presentation.
+
 –	In order to understand a complicated text, you will certainly need additional information in some places. Consider the information you need to provide in the presentation to make the material comprehensible. Important: do not present everything you have read, but only what you need to explain the content.
+
 –	Make an effort to make complex facts comprehensible. Explain them in your own words or think of specific examples to illustrate the subject matter.
 
 <div class="Tip">
@@ -69,8 +80,11 @@ Sometimes the brief presentation of direct quotations can make sense. These are 
 3.	Conclusion and ending
 
 –	Criticism of the text: criticism of the text is never bad, as long as it is well-founded. On the one hand, make it clear where the criticism comes from - is it your own or the criticism of other authors? - and explain the basis of the criticism, e.g. the premises of the text, its conclusions or its methodical implementation.
+
 –	Linking back to the context of the course: If the context is not quite obvious or the presentation has already been embedded by the lecturer, it can be useful to highlight the connections to the course again at the end: what was the particular relevance of what you heard? To what extent have open questions been answered or, on the contrary, have further points of discussion been raised?
+
 –	Do not simply repeat what has already been said, but summarize your content in a meaningful way by linking it back to the thesis or question of the presentation and re-establishing the connection to your objective. The listeners should notice that they are now further along than before, and it should be clear to the lecturer that you have fulfilled your intention. Feel free to announce the conclusion explicitly, this will once again focus attention.
+
 –	Give room for questions. Your foundation of literature should be noted on the handout anyway; but tips for further information can also find their place here.
 
 <div class="Advice">
