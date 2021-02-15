@@ -5,25 +5,25 @@ order: 5
 contents: true
 ---
 
-# Citing Literature {#sec:zitieren}
+# Citing Literature {#sec:citing}
 
 The academic process is based - especially in the humanities - on the fact that one refers to the work of others, i.e. cites their work when relying on their intellectual property. It is not always easy for first-year students to assess what needs to be cited and what does not. As a rough guide, the following points can be made:
 
 Must be cited:
 
-–	knowledge that you could not have come to just by thought (i.e. the research results of others);
+- knowledge that you could not have come to just by thought (i.e. the research results of others);
 
-–	basic methodological and theoretical assumptions that form a foundation for your work;
+- basic methodological and theoretical assumptions that form a foundation for your work;
 
-–	further thoughts that you have taken from the works of others and that do not belong to your own general knowledge.
+- further thoughts that you have taken from the works of others and that do not belong to your own general knowledge.
 
 Must not be cited:
 
-–	generalities (e.g. known historical context data);
+- generalities (e.g. known historical context data);
 
-–	realizations of common sense (i.e. your conclusions or summaries);
+- realizations of common sense (i.e. your conclusions or summaries);
 
-–	results of your own analyses.
+- results of your own analyses.
 
 ## Quotations in the Text
 
@@ -119,21 +119,30 @@ The bibliography lists all cited literature. Conversely, no literature should be
 After the footnote citation method, the titles are given in the bibliography in exactly the same way as the first, complete details in the text. Only the name of the (first) author is preceded by the surname due to the sorting.
 
 a)  Monographs:[^4]  
-    Last name, first name: title, edition )if applicable(, place: publisher year. 
-    Luckmann, Thomas: Die unsichtbare Religion, 2nd edition, Frankfurt am Main: Suhrkamp 1993.
+    
+Last name, first name: title, edition (if applicable), place: publisher year.
 
-b)  Essays in anthologies:  
-    Last name, first name <span>*(of the author)*</span>: "Title of the essay", in: First name Last name <span>*(of the editor)*</span> (ed.): Title of the anthology, if applicable edition, place: publisher year, pp. Pages of the essay.
-    Asad, Talal: "The Construction of Religion as an Anthropological Category", in: Michael Lambek (ed.): A reader in the anthropology of religion, Malden, MA: Blackwell Publishers 2002, pp. 114-132 .  
-    Boyarin, Daniel: "Hybridity and Heresy: Apartheid Comparative Religion in Late Antiquity", in: Ania Loomba (ed.): Postcolonial Studies and Beyond, Durham, NC: DukeUniversity Press 2005, pp. 339-358.
+Luckmann, Thomas: Die unsichtbare Religion, 2nd edition, Frankfurt am Main: Suhrkamp 1993.
+
+b)  Essays in anthologies:
+
+Last name, first name <span>*(of the author)*</span>: "Title of the essay", in: First name Last name <span>*(of the editor)*</span> (ed.): Title of the anthology, if applicable edition, place: publisher year, pp. Pages of the essay.
+
+Asad, Talal: "The Construction of Religion as an Anthropological Category", in: Michael Lambek (ed.): A reader in the anthropology of religion, Malden, MA: Blackwell Publishers 2002, pp. 114-132 . 
+    
+Boyarin, Daniel: "Hybridity and Heresy: Apartheid Comparative Religion in Late Antiquity", in: Ania Loomba (ed.): Postcolonial Studies and Beyond, Durham, NC: DukeUniversity Press 2005, pp. 339-358.
     
 c)  Journal articles:  
-    Last name, first name: "Title", *journal* volume/​number (year), pp. Pages of the article.  
-    von Stuckrad, Kocku: "Discursive Study of Religion: From States of the Mind to Communication and Action", *Method & Theory in the Study of Religion* 15/3 (2003), pp. 255–271.
+    
+Last name, first name: "Title", *journal* volume/​number (year), pp. Pages of the article.  
+
+von Stuckrad, Kocku: "Discursive Study of Religion: From States of the Mind to Communication and Action", *Method & Theory in the Study of Religion* 15/3 (2003), pp. 255–271.
 
 d)  Encyclopedia articles:  
-    Last name, first name: "Article", in: Encyclopedia Vol. Volume, possibly edition, year, p(p). Page(s) of the article.  
-    Avi-Yonah, Michael: "Adoraim", in: Encyclopaedia Judaica Vol. 1, 2nd ed., 2006, p. 214.
+    
+Last name, first name: "Article", in: Encyclopedia Vol. Volume, possibly edition, year, p(p). Page(s) of the article. 
+
+Avi-Yonah, Michael: "Adoraim", in: Encyclopaedia Judaica Vol. 1, 2nd ed., 2006, p. 214.
 
 ## Author-Year Citation Method
 
@@ -153,21 +162,30 @@ This method of citation, which is used primarily in the natural and social scien
 Since the references in the text do not contain complete bibliographical information, the bibliography provides the relevant information for finding the literature in the author-year citation. In the author-year system, the year is placed directly after the author's name to make it easier to look up the information in the text. Sorting is alphabetical.
 
 a)  Monographs:[^7]  
-    Last name, first name (year): title, edition (if applicable), place: publisher.
-    Luckmann, Thomas (1993): Die unsichtbare Religion, 2nd edition., Frankfurt am Main: Suhrkamp.
 
-b)  Essays in anthologies:  
-    Last name, first name <span>*(of the author)*</span> (year): "Title of the essay, in: First name Last name <span>*(of the editor)*</span> (ed.): Title of the anthology, if applicable edition, place: publisher, pp. pages of the essay.
-    Asad, Talal (2002): "The Construction of Religion as an Anthropological Category", in: Michael Lambek (ed.): A reader in the anthropology of religion, Malden, MA: Blackwell Publishers, pp. 114-132.  
-    Boyarin, Daniel (2005): "Hybridity and Heresy: Apartheid Comparative Religion in Late Antiquity", in: Ania Loomba (ed.): Postcolonial Studies and Beyond, Durham, NC: Duke University Press, pp. 339-358.
+Last name, first name (year): title, edition (if applicable), place: publisher.
 
-c)  Journal articles:  
-    Last name, first name (year): "Title, *journal* volume/​number, pp. Pages of the article.  
-    von Stuckrad, Kocku (2003): "Discursive Study of Religion: From States of the Mind to Communication and Action", *Method & Theory in the Study of Religion* 15/3, S. 255–271.
+Luckmann, Thomas (1993): Die unsichtbare Religion, 2nd edition., Frankfurt am Main: Suhrkamp.
+
+b)  Essays in anthologies: 
+
+Last name, first name <span>*(of the author)*</span> (year): "Title of the essay, in: First name Last name <span>*(of the editor)*</span> (ed.): Title of the anthology, if applicable edition, place: publisher, pp. pages of the essay.
+
+Asad, Talal (2002): "The Construction of Religion as an Anthropological Category", in: Michael Lambek (ed.): A reader in the anthropology of religion, Malden, MA: Blackwell Publishers, pp. 114-132.  
+
+Boyarin, Daniel (2005): "Hybridity and Heresy: Apartheid Comparative Religion in Late Antiquity", in: Ania Loomba (ed.): Postcolonial Studies and Beyond, Durham, NC: Duke University Press, pp. 339-358.
+
+c)  Journal articles: 
+
+Last name, first name (year): "Title, *journal* volume/​number, pp. Pages of the article.  
+
+von Stuckrad, Kocku (2003): "Discursive Study of Religion: From States of the Mind to Communication and Action", *Method & Theory in the Study of Religion* 15/3, S. 255–271.
 
 d)  Encyclopedia articles:  
-    Name, Vorname (Jahr): "Artikel", in: encyclopedia Vol. volume, if necessary edition, p(p). page(s) of the article.  
-    Avi-Yonah, Michael (2006): "Adoraim", in: Encyclopaedia Judaica Vol. 1, 2nd ed., p. 214.
+
+Name, Vorname (Jahr): "Artikel", in: encyclopedia Vol. volume, if necessary edition, p(p). page(s) of the article.  
+
+Avi-Yonah, Michael (2006): "Adoraim", in: Encyclopaedia Judaica Vol. 1, 2nd ed., p. 214.
 
 <div class="Advice">
 
