@@ -37,11 +37,11 @@ For further information and downloads see <http://www.libreoffice.org/>.
 
 The key to using word processors are the templates. These allow you to assign not only a certain formatting to text parts (e.g. font size 14pt, bold font), but also a meaning (e.g. first-order headline). This allows among other things:
 
-–	Later, you can change formatting at a stroke (e.g. all headings of the first order, font size 16pt),
+- Later, you can change formatting at a stroke (e.g. all headings of the first order, font size 16pt),
 
-–	automatic table of contents,
+- automatic table of contents,
 
-–	reference to other chapters that are automatically updated (e.g. "see Chapter 3, page 12").
+- reference to other chapters that are automatically updated (e.g. "see Chapter 3, page 12").
 
 Therefore, you should immediately get into the habit of always using a template instead of setting formatting directly. This applies not only to headings, but also to block quotations, footnotes, and others.
 
