@@ -9,11 +9,11 @@ contents: true
 
 The administration of literature and the citation of texts represents a large part of the effort involved in writing an academic paper. This is already shown by the length of the corresponding chapter in this introduction. However, there are also programs that make this work much easier. Literature administration software offers the possibility,
 
-–	to keep your own literature collection under control (e.g. to find copies from previous seminars by searching for title, author or keywords), 
+- to keep your own literature collection under control (e.g. to find copies from previous seminars by searching for title, author or keywords), 
 
-–	to have a bibliography formatted according to specific requirements and
+- to have a bibliography formatted according to specific requirements and
 
-–	for literature references in a text to be automatically formatted and the creation of a list of the literature used.
+- for literature references in a text to be automatically formatted and the creation of a list of the literature used.
 
 There are a number of both free and payment-requiring programs for these tasks. Most providers of commercial programs provide free versions (often with reduced functionality) for students. The Ruhr-Universität has a campus license for the program "Citavi", so students can also use the full version free of charge.
 
@@ -51,11 +51,11 @@ In connection with internet catalogs, some programs offer the possibility to imp
 
 An important piece of work is taken off your hands if you leave the formatting of literature lists to the literature administration. This has several advantages:
 
--It is much faster,
+- It is much faster,
 
--the same literature list can easily be output in a completely different format,
+- the same literature list can easily be output in a completely different format,
 
--one avoids careless mistakes and inconsistencies.
+- one avoids careless mistakes and inconsistencies.
 
 For this purpose, the programs usually provide a selection of ready-made formatting rules; if desired, you can create your own.
 
