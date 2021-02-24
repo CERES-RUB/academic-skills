@@ -138,7 +138,7 @@ A large part of the optimization of your own style of presentation is achieved t
 
 <div class="Tip">
 
-Are you nervous? This is normal. But it usually helps to be really well prepared - and also the routine that comes with the course of study. If you have the feeling that this is not enough for you, you can get professional help - almost every university offers a workshop where you can practice academic writing and presenting as well as a counselling service for cases of exam nerves. Make use of this if you think it could help you. For more information see <http://www.sz.rub.de/> and <https://studium.ruhr-uni-bochum.de/en/counselling>.
+Are you nervous? This is normal. But it usually helps to be really well prepared - and also the routine that comes with the course of study. If you have the feeling that this is not enough for you, you can get professional help - almost every university offers a workshop where you can practice academic writing and presenting as well as a counselling service for cases of exam nerves. Make use of this if you think it could help you. For more information see <https://studium.ruhr-uni-bochum.de/en/counselling> or find some English workshops at <https://www.zfw.rub.de/sz/mini-workshops>. At <schreibberatung@rub.de> you can also ask for counselling on academic writing.
 
 </div>
 
