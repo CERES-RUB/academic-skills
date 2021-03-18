@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Impressum
+title: Credits
 permalink: /credits/
 nav: true
 order: 5
