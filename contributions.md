@@ -6,12 +6,17 @@ nav: true
 order: 4
 ---
 
-## Autoren
+## Authors
 
 * Frederik Elwert
 * Anna Neumaier
 
-## Beiträge
+## Contributors
 
-* Sven Bretfeld (Kriterien zur Bewertung von Hausarbeiten)
-* Ann-Kathrin Wolf (Überarbeitung und Fehlerkorrekturen)
+* Sven Bretfeld (Marking Criteria for Term Papers)
+* Ann-Kathrin Wolf (Revision and proof-reading)
+
+## English Translation
+
+* George Warner
+* Lina Rodenhausen
