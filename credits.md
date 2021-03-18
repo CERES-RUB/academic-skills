@@ -3,7 +3,7 @@ layout: page
 title: Credits
 permalink: /credits/
 nav: true
-order: 5
+order: 4
 ---
 
 Responsible:
