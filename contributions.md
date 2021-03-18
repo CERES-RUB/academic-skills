@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mitwirkende
+title: Contributions
 permalink: /contributions/
 nav: true
 order: 4
