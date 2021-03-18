@@ -3,7 +3,7 @@ layout: page
 title: Contributions
 permalink: /contributions/
 nav: true
-order: 4
+order: 3
 ---
 
 ## Authors
