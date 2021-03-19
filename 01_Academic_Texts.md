@@ -8,20 +8,20 @@ contents: true
 # Types of Academic Texts
 
 Academia takes place predominantly in the medium of language, and texts will play a central role in your studies:
-knowledge is conveyed in the form of texts, academic sources are read, classi-fied, and acquired. What has been
-learned is also presented in written form, e.g. in term papers (Hausarbeiten) and exams.
+knowledge is conveyed in the form of texts, academic sources are read, classified, and acquired. What has been
+learned is also presented in written form, e.g. in term papers (_Hausarbeiten_) and exams.
 
-## Types of Assignments {#sec:assignemnts}
+## Types of Assignments {#sec:assignments}
 
-A large component of course assignments are in written form. In order to be able to meet the re-quirements of the
-various kinds of written assignment, one must be familiar with them. Assign-ments written during the course of
-study differ not only in length, but also in their purpose, struc-ture and style. 
+A large component of course assignments are in written form. In order to be able to meet the requirements of the
+various kinds of written assignment, one must be familiar with them. Assignments written during the course of
+study differ not only in length, but also in their purpose, structure and style. 
 
-The longest form of assignment - apart from the final thesis - is a term paper (Hausarbeit). Term papers in BA
+The longest form of assignment - apart from the final thesis - is a term paper (_Hausarbeit_). Term papers in BA
 studies usually comprise 12-18 pages, whereby usually six pages are credited with 1 CP each. The term paper
 represents an independent academic achievement, something that is reflected in the requirements.
 
-For a term paper a student should work independently on a chosen topic. This includes the litera-ture consultation
+For a term paper a student should work independently on a chosen topic. This includes the literature consultation
 and presentation of the state of research, as well as the formulation of a clear structure and answering an
 independently developed research question. A term paper must also meet certain formal requirements, such as
 correct citation style and the creation of a bibliography. For more details see section [Term Papers](02_Term_Papers.html#sec:term_papers).
@@ -40,21 +40,21 @@ Think about the structure of your arguments before you start writing. For a clea
 
 </div>
 
-In university, there are also different types of protocols - experimental or observation protocols in research, but also protocols of seminars, which usually record a session as a mixture of progress and result protocols. This ensures that the results of the meeting are available to all participants, and must therefore be comprehensible to anyone who was not present at the meeting. They are also often a good way of giving feedback to the lecturer, showing which components of the class were absorbed and understood. Meanwhile, writing protocols is a good way of making your per-sonal notes as efficient and precise as possible. A protocol does not have to reflect the course of events in a strict and detailed manner, rather priority is given to summarizing and structuring the key points of the seminar/lecture. This may involve including points made by participants in a class as well as the content of presentations or a lecture. Record should be included of open questions that might be formulated at the end of the session, and of any key sources and/or litera-ture involved. Use of diagrams may often be a helpful tool.
+In university, there are also different types of protocols - experimental or observation protocols in research, but also protocols of seminars, which usually record a session as a mixture of progress and result protocols. This ensures that the results of the meeting are available to all participants, and must therefore be comprehensible to anyone who was not present at the meeting. They are also often a good way of giving feedback to the lecturer, showing which components of the class were absorbed and understood. Meanwhile, writing protocols is a good way of making your personal notes as efficient and precise as possible. A protocol does not have to reflect the course of events in a strict and detailed manner, rather priority is given to summarizing and structuring the key points of the seminar/lecture. This may involve including points made by participants in a class as well as the content of presentations or a lecture. Record should be included of open questions that might be formulated at the end of the session, and of any key sources and/or literature involved. Use of diagrams may often be a helpful tool.
 
 <div class="Tip">
 
-Write the protocol as soon as possible after the session - your notes will be more mean-ingful when the memory is still fresh!  If you have any questions or difficulties in under-standing, contact the lecturer or the presenters as soon as possible, preferably directly after the session.
+Write the protocol as soon as possible after the session - your notes will be more meaningful when the memory is still fresh! If you have any questions or difficulties in understanding, contact the lecturer or the presenters as soon as possible, preferably directly after the session.
 
 </div>
 
-Like the protocol, the text summary or excerpt does not constitute an independent academic achievement. The aim of a summary is instead to reproduce the core statements of a text in as concise and precise a form as possible. For more details see the section [Summaries](04_Literatur.html#sec:exzerpte).
+Like the protocol, the text summary or excerpt does not constitute an independent academic achievement. The aim of a summary is instead to reproduce the core statements of a text in as concise and precise a form as possible. For more details see the section [Summaries](04_Literature.html#sec:summaries).
 
 There are additional forms of written assignment. These can be, for example, reviews, posters or Wikipedia articles. In all cases it is advisable to discuss the performance requirements with the lecturer in order to avoid any misunderstandings.
 
-<div class="Important Note">
+<div class="Advice">
 
-The following information must be included in the document header of all written assign-ments in this or a similar form:
+The following information must be included in the document header of all written assignments in this or a similar form:
 
 Ruhr-Universität Bochum
 
@@ -80,10 +80,10 @@ The classic form of the academic text is the monograph, the independent book. Mo
 
 An anthology or edited volume is a collection of essays by different authors based around an overall topic. Usually, one refers to individual articles from an anthology, not to the volume as a whole.
 
-Periodicals or journals contain various articles by different authors. The only thing they have in common is often the subject area of the journal itself, but there also exist special issues of jour-nals on a particular theme. Such issues are thus very similar to anthologies.
+Periodicals or journals contain various articles by different authors. The only thing they have in common is often the subject area of the journal itself, but there also exist special issues of journals on a particular theme. Such issues are thus very similiar to anthologies.
 
 Manuals differ from anthologies in that the articles they contain are not primarily current research contributions by the authors, rather they present the state of research on a given topic. Also, the articles in manuals are usually shorter.
 
 Dictionaries contain a large number of short articles, usually sorted alphabetically.
 
-Another category is reviews, whether of monographs, anthologies or other works. They contain both a brief description of the content of the reviewed work and a critical analysis thereof with re-gard to the current state of research.
+Another category is reviews, whether of monographs, anthologies or other works. They contain both a brief description of the content of the reviewed work and a critical analysis thereof with regard to the current state of research.
