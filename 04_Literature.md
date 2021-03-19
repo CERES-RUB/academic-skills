@@ -9,7 +9,7 @@ contents: true
 
 ## Literature Consultation {#sec:literature_consultation}
 
-The literature consultation for a paper, a presentation or any other work is an important part of the assignment. Therefore, this research should be carried out on one' s own. Finding, viewing and evaluating the available literature is an important skill acquired during the course of study. However, after you have conducted an initial survey, you can (and should) discuss your findings with the lecturer. In this way you also avoid reading too many texts that you cannot use in the end.
+The literature consultation for a paper, a presentation or any other work is an important part of the assignment. Therefore, this research should be carried out on one's own. Finding, viewing and evaluating the available literature is an important skill acquired during the course of study. However, after you have conducted an initial survey, you can (and should) discuss your findings with the lecturer. In this way you also avoid reading too many texts that you cannot use in the end.
 
 When researching the literature, it is important to avoid two common problems: First, it is easy to find too much literature. On the other hand, there is also the danger of not finding important texts that may not immediately catch the eye. It is therefore important to start the search from different places in order to find not necessarily a lot of literature, but appropriate literature. There is not a single catalog where you can find all the relevant literature, so it is important to know the different search methods.
 
@@ -145,7 +145,7 @@ The most important reading method is analytical reading. The aim is to understan
 
 –	**R**eflect: Reflect upon the contents and their context
 
-–	**R**ecite: Reproduce the content (e.g. in form of an excerpt)
+–	**R**ecite: Reproduce the content (e.g. in form of a summary)
 
 –	**R**eview: Review of your own reading
 
