@@ -15,7 +15,7 @@ The writing of an academic paper is not limited to the writing of the text itsel
 
 It is advisable to work out a schedule for the paper before starting the writing process. Especially when it comes to the locating and review of relevant literature, this can often take more time than might be initially assumed. If the required books have been borrowed by someone else or even have to be ordered via interlibrary loan, it can take several weeks until they are available. The further steps also take time. And last but not least, there should be enough time at the end to proofread the work (or have it proofread).
 
-An overall schedule can be helpful for the coordination of different assignments, for example dur-ing the semester breaks. It enables more effective use of the limited time available. In addition, a schedule can have motivating effects by showing the points already successfully completed dur-ing the course of writing a paper.
+An overall schedule can be helpful for the coordination of different assignments, for example during the semester breaks. It enables more effective use of the limited time available. In addition, a schedule can have motivating effects by showing the points already successfully completed during the course of writing a paper.
 
 <div class="Advice">
 
@@ -27,9 +27,9 @@ Papers are usually written during the semester break. Please bear in mind that d
 
 The first step in writing an academic paper is to find a topic. In so doing, it is not enough only to identify the issues which the paper will address. It is also necessary to formulate a question that makes it possible to work on the topic with an approach specific to religious studies. Developing a research question is certainly a demanding task. A good question does not usually stop at asking how things can be described (this usually results in a simple reproduction of one’s readings with no critical input), rather an academic question aims at explaining the facts or their consequences. An exception to this can be language-focused research, where the reading and representation of the material is a demanding task in itself. 
 
-A second challenge is to narrow down the subject. Topics such as "The History of Hinduism in India" or "The Religiosity of Muslim Youth in Germany" are simply too broad to be dealt with in the context of term papers or even a Bachelor's thesis. The identification of a topic is also difficult be-cause it requires basic knowledge of the subject in advance. Only then is it possible to determine the more concrete questions into which a topic can be broken down.
+A second challenge is to narrow down the subject. Topics such as "The History of Hinduism in India" or "The Religiosity of Muslim Youth in Germany" are simply too broad to be dealt with in the context of term papers or even a Bachelor's thesis. The identification of a topic is also difficult because it requires basic knowledge of the subject in advance. Only then is it possible to determine the more concrete questions into which a topic can be broken down.
 
-Therefore, finding the right topic cannot be done at the desk alone. It requires an initial, rough overview of the available literature and the state of research, as well as conversation with the lec-turer. Do not hesitate to tell the lecturer your own ideas, but also be prepared to listen. If you have already acquired some basic knowledge, you can take up the lecturer’s suggestions and work them in sensibly.
+Therefore, finding the right topic cannot be done at the desk alone. It requires an initial, rough overview of the available literature and the state of research, as well as conversation with the lecturer. Do not hesitate to tell the lecturer your own ideas, but also be prepared to listen. If you have already acquired some basic knowledge, you can take up the lecturer’s suggestions and work them in sensibly.
 
 <div class="Tip">
 
@@ -39,13 +39,13 @@ Often you can start from a problem that you have encountered in a seminar or eve
 
 <div class="Example">
 
-The definition of a ‘religious community’ is apparently controversial, as the debate on Sci-entology shows. The question "What is a religious community?" would be too broad to be answered in a term paper. Moreover, normative approaches - for instance "Why Scientol-ogy is not a religious community" - are inappropriate in academic papers. It would be pos-sible to raise a question that picks out one of many aspects, namely the legal debate sur-rounding this issue: "Which argumentations are used in court decisions about the recogni-tion of religious communities?” The title of the paper could then be: "Judicial argumenta-tions in determining the status of ‘religious community’. An investigation into the example of Scientology."
+The definition of a ‘religious community’ is apparently controversial, as the debate on Scientology shows. The question "What is a religious community?" would be too broad to be answered in a term paper. Moreover, normative approaches - for instance "Why Scientology is not a religious community" - are inappropriate in academic papers. It would be possible to raise a question that picks out one of many aspects, namely the legal debate surrounding this issue: "Which argumentations are used in court decisions about the recognition of religious communities?” The title of the paper could then be: "Judicial argumentations in determining the status of ‘religious community’. An investigation into the example of Scientology."
 
 </div>
 
 ### Outline and Selection of Literature
 
-An initial outline can be established immediately after the research question has been formulated. This allows one to explicate the basic scheme of the work without getting lost in the details of the material. The outline is also the basis for the selection of literature. Only when the approximate direction of the research is known is it possible to then determine which literature is relevant. In addition to literature on the subject, it is often necessary to have an insight into the theoretical literature in order to provide a background for the research question. In a second part of the as-signment, depending on the focus of the topic, students can analyse their own selection of sources.
+An initial outline can be established immediately after the research question has been formulated. This allows one to explicate the basic scheme of the work without getting lost in the details of the material. The outline is also the basis for the selection of literature. Only when the approximate direction of the research is known is it possible to then determine which literature is relevant. In addition to literature on the subject, it is often necessary to have an insight into the theoretical literature in order to provide a background for the research question. In a second part of the assignment, depending on the focus of the topic, students can analyse their own selection of sources.
 
 <div class="Example">
 
@@ -73,7 +73,7 @@ For more details, see the section on [Outline of Chapters](#sec:outline).
 
 ### Literature Consultation and Reading
 
-Sufficient time should be planned for the  literature consultation. Relevant works may already on loan or even have to be ordered via interlibrary loan. It is therefore advisable to acquire an over-view of the required literature at an early stage. (For details of this process, see the section on [Literature Consultation](04_Literature.html#sec:literature_consultation).) The range of inquiry is always the current state of research: the texts on a topic are not chosen arbitrarily, but should reflect the particular research area. Of course, it is not possible to reproduce the entire literature on a topic in one paper. However, the selected texts should always be em-bedded in a context: which research area do they originate from? To which texts and/or authors do they refer? What other research areas are there that are not considered in the paper? A short overview of the state of research and the existing literature should therefore always be presented at the beginning of your text, for example after the introduction.
+Sufficient time should be planned for the  literature consultation. Relevant works may already be on loan or even have to be ordered via interlibrary loan. It is therefore advisable to acquire an overview of the required literature at an early stage. (For details of this process, see the section on [Literature Consultation](04_Literature.html#sec:literature_consultation).) The range of inquiry is always the current state of research: the texts on a topic are not chosen arbitrarily, but should reflect the particular research area. Of course, it is not possible to reproduce the entire literature on a topic in one paper. However, the selected texts should always be embedded in a context: Which research area do they originate from? To which texts and/or authors do they refer? What other research areas are there that are not considered in the paper? A short overview of the state of research and the existing literature should therefore always be presented at the beginning of your text, for example after the introduction.
 
 The actual work then follows with the reading and evaluation of the selected literature. Again, it is important not to rush into the literature without prior consideration. The reading should also be done with the research question in mind. What kind of argument does the author pursue? Does it agree with your own approaches? If not, can your own approach be justified or should you adapt your theses? 
 
@@ -134,6 +134,7 @@ However, this structure generally does not fully correspond to the outline of ch
 Decimal classification is suitable for the outline of chapters: chapters numbered with 1, 2, and so on, sub-chapters with 1.1, 1.2, etc. An outline level must never contain only a single chapter:  If there is a chapter 2.1, then there must also be 2.2. 
 
 The individual parts should roughly follow the following structure:
+
 -   Introduction to the topic, for example by linking it to historical or general debates
 
 -   Presentation of the subsequent topic of the paper and, if applicable, reasons for the choice of topic
@@ -148,7 +149,7 @@ The individual parts should roughly follow the following structure:
 
 <div class="Tip">
 
-Imagine the introduction of a paper as being like a funnel: you start broadly, with a reference to a generally relevant issue, and then narrow it down to your chosen problem. This approach has its counterpart in the conclusion - here the findings of the paper are again opened up into a more general debate. The conclusion should contain the following elements:
+Imagine the introduction of a paper as being like a funnel: you start broadly, with a reference to a generally relevant issue, and then narrow it down to your chosen problem. This approach has its counterpart in the conclusion - here the findings of the paper are again opened up into a more general debate. 
 
 </div>
 
