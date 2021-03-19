@@ -83,7 +83,7 @@ Sometimes the brief presentation of direct quotations can make sense. These are 
 
 –	Linking back to the context of the course: If the context is not quite obvious or the presentation has already been embedded by the lecturer, it can be useful to highlight the connections to the course again at the end: what was the particular relevance of what you heard? To what extent have open questions been answered or, on the contrary, have further points of discussion been raised?
 
-–	Do not simply repeat what has already been said, but summarize your content in a meaningful way by linking it back to the thesis or question of the presentation and re-establishing the connection to your objective. The listeners should notice that they are now further along than before, and it should be clear to the lecturer that you have fulfilled your intention. Feel free to announce the conclusion explicitly, this will once again focus attention.
+–	Do not simply repeat what has already been said, but summarize your content in a meaningful way by linking it back to the thesis or question of the presentation and reestablishing the connection to your objective. The listeners should notice that they are now further along than before, and it should be clear to the lecturer that you have fulfilled your intention. Feel free to announce the conclusion explicitly, this will once again focus attention.
 
 –	Give room for questions. Your foundation of literature should be noted on the handout anyway; but tips for further information can also find their place here.
 
