@@ -80,7 +80,7 @@ The classic form of the academic text is the monograph, the independent book. Mo
 
 An anthology or edited volume is a collection of essays by different authors based around an overall topic. Usually, one refers to individual articles from an anthology, not to the volume as a whole.
 
-Periodicals or journals contain various articles by different authors. The only thing they have in common is often the subject area of the journal itself, but there also exist special issues of journals on a particular theme. Such issues are thus very similiar to anthologies.
+Periodicals or journals contain various articles by different authors. The only thing they have in common is often the subject area of the journal itself, but there also exist special issues of journals on a particular theme. Such issues are thus very similar to anthologies.
 
 Manuals differ from anthologies in that the articles they contain are not primarily current research contributions by the authors, rather they present the state of research on a given topic. Also, the articles in manuals are usually shorter.
 
