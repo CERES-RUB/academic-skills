@@ -17,7 +17,7 @@ Office word processors offer a comfortable possibility to enter texts directly i
 
 <div class="Technology">
 
-Word processors save documents by default in their own formats, which cannot be reopened everywhere. If you send papers to lecturers or fellow students, please note the information in the section [File Formats] (06_Word_Processing.html#sec:file_formats).
+Word processors save documents by default in their own formats, which cannot be reopened everywhere. If you send papers to lecturers or fellow students, please note the information in the section [File Formats](06_Word_Processing.html#sec:file_formats).
 
 </div>
 
