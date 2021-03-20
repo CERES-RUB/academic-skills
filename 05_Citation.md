@@ -42,7 +42,7 @@ This quotation can now be reproduced in different ways within your text:
 -   Separate block quotation (for quotations longer than about three lines - use sparingly):
     According to Boyarin, the category "religion" cannot be applied to Judaism from a Jewish point of view, as he explains:
 
-    > “In fine, it is not the case that Christianity and Judaism are two separate or different religions, but that they are two different kinds of things altogether. From the point of view of the church’s category formation, Judaism and Christianity (and Hinduism later on) are examples of the category religion, one a bad example and the other one a very good one, indeed the only prototype; but from a point of view of the rabbis’ categorization, Christianity is a religion while Judaism is not.”
+    > “In fine, it is not the case that Christianity and Judaism are two separate or different religions, but that they are two different kinds of things altogether. From the point of view of the church’s category formation, Judaism and Christianity (and Hinduism later on) are examples of the category religion, one a bad example and the other one a very good one, indeed the only prototype; but from a point of view of the rabbis’ categorization, Christianity is a religion while Judaism is not.” (Boyarin 2005, 354 f.)
 
     His criticism of the concept of religion is thus of a fundamental kind.
 
@@ -114,7 +114,7 @@ The footnote citation method is here demonstrated by the following example:
 -   Direct follow-up quote:  
     Talal Asad argues "that there cannot be a universal definition of religion \[...\] because that definition is itself the historical product of discursive processes."[^3]
 
-The bibliography lists all cited literature. Conversely, no literature should be included that is not used in the text. It thus serves as a clear summary of all literature cited. The bibliography must be formatted consistently. The exact presentation also depends on the citation method used. The bibliography is always sorted alphabetically according to the surnames of the authors.
+The bibliography lists all cited literature. Conversely, no literature should be included that is not used in the text. It thus serves as a clear summary of all literature cited. The bibliography must be formatted consistently. The exact presentation also depends on the citation method used. The bibliography is always sorted alphabetically according to the last names of the authors.
 
 After the footnote citation method, the titles are given in the bibliography in exactly the same way as the first, complete details in the text. Only the name of the (first) author is preceded by the surname due to the sorting.
 
@@ -151,10 +151,10 @@ This method of citation, which is used primarily in the natural and social scien
 > Religions are powerful not because they reveal transcendent truths or the effects of an ontologized “History”, but because they serve as instruments in the communicative formation of identity and provide people with a concrete script of action.
 
 -   First quotation:  
-    “Religions are powerful not because they reveal transcendent truths or the effects of an ontologized ‘History’, but because they serve as instruments in the communicative formation of identity and provide people with a concrete script of action” (Stuckrad 2003, 269).
+    “Religions are powerful not because they reveal transcendent truths or the effects of an ontologized ‘History’, but because they serve as instruments in the communicative formation of identity and provide people with a concrete script of action” (von Stuckrad 2003, 269).
 
 -   Follow-up quotation:[^6]  
-    According to some authors, the effectiveness of religions consists especially in supporting identity constructions and in concrete instructions for action (see for example Stuckrad 2003, 269).
+    According to some authors, the effectiveness of religions consists especially in supporting identity constructions and in concrete instructions for action (see for example von Stuckrad 2003, 269).
 
 -   Direct follow-up quotation:  
     Therefore religions are “powerful \[...\] because they serve as instruments in the communicative formation of identity and provide people with a concrete script of action” (ibid., 269).
