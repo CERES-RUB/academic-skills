@@ -37,7 +37,7 @@ On-screen presentations require a certain amount of technical effort during crea
 
 - On most computers (but not on all) Microsoft PowerPoint is installed. However, different computers or different PowerPoint versions may cause shifts in the display.
 
-- LibreOffice Impress is not installed on all computers.  Impress presentations can be saved in Microsoft PowerPoint format, but this may result in the loss of functions such as animations.
+- LibreOffice Impress is not installed on all computers. Impress presentations can be saved in Microsoft PowerPoint format, but this may result in the loss of functions such as animations.
 
 - PDF files created from PowerPoint, Impress or LaTeX can be played almost everywhere. Only a PDF viewer such as Adobe Reader is required. In addition, a correct display in this format is guaranteed. However, animations and fade-in effects are lost when exporting to PDF.
 
