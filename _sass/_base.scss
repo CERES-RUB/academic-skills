@@ -166,48 +166,48 @@ blockquote {
     }
 }
 
-.Beispiel {
+.Example {
     @extend %hint;
     background-image: url(../images/icon-beispiel.png);
 
     &::before {
-        content: "Beispiel";
+        content: "Example";
     }
 }
 
-.Hinweis {
+.Advice {
     @extend %hint;
     background-image: url(../images/icon-hinweis.png);
 
     &::before {
-        content: "Hinweis";
+        content: "Advice";
     }
 }
 
-.Merke {
+.Remember {
     @extend %hint;
     background-image: url(../images/icon-merke.png);
 
     &::before {
-        content: "Merke";
+        content: "Remember to ensure the following:";
     }
 }
 
-.Technik {
+.Technology {
     @extend %hint;
     background-image: url(../images/icon-technik.png);
 
     &::before {
-        content: "Technik";
+        content: "Technology";
     }
 }
 
-.Tipp {
+.Tip {
     @extend %hint;
     background-image: url(../images/icon-tipp.png);
 
     &::before {
-        content: "Tipp";
+        content: "Tip";
     }
 }
 

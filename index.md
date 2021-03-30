@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Info
+title: About
 nav: true
 order: 1
 ---
 
-Dieser Leitfaden bietet Studierenden der Religionswissenschaft einen Überblick über die Techniken wissenschaftlichen Arbeitens, die sie in ihrem Studium benötigen.
+This guide provides students of religious studies with an overview of academic skills they will need in their studies.
 
-**Hinweis:** Der Leitfaden ist ursprünglich am Studiengang Religionswissenschaft des Centrums für religionswissenschaftliche Studien ([CERES](http://ceres.rub.de/)) entstanden. Derzeit wird er aktualisiert und auf ein neues Publikationssystem umgestellt. Daher kann diese Fassung sowohl inhaltlich wie technisch noch Fehler aufweisen.
+Besides the [online version](contents) there is also a [PDF document](downloads/guide_to_academic_writing.pdf) available.
 
-Neben der [Online-Version](contents) gibt es auch eine [PDF-Version](downloads/Leitfaden_wissenschaftliches_Arbeiten.pdf) und ein [E-Book](downloads/Leitfaden_wissenschaftliches_Arbeiten.epub).
+A German version can be found [here](https://linar7.github.io/wissenschaftliches-arbeiten/). 

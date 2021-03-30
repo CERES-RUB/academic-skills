@@ -1,12 +1,12 @@
 ---
-title: Inhalt
+title: Content
 layout: default
 permalink: /contents/
 nav: true
 order: 2
 ---
 
-# Inhalt
+# Content
 
 {% assign content_pages = site.pages | sort:"order" %}
 {% for my_page in content_pages %}
