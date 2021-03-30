@@ -229,7 +229,7 @@ Roughly speaking, websites can be divided into three categories:
 
 1.  Academic online journals such as the Forum Qualitative Social Research (<http://www.qualitative-research.net/>) can be used like traditional print journals. Since complete authorial information is also available here, the citation is similar to other journal articles, with two modifications: Firstly, the Internet address (URL) and date of access must be given, and secondly, no page numbers are available for online sources, such that citation must be based on paragraph number or other criteria.
 
-    Example:[^9]  
+    Example:[^8]  
     Witzel, Andreas (2000): "The Problem-centered Interview", in: *Forum: Qualitative Social Research* 1/1, Art. 22, https://doi.org/10.17169/fqs-1.1.1132 (last access: 05.02.21).
 
 2.  Popular online encyclopedia websites such as Wikipedia (<http://de.wikipedia.org/>) are handy reference works to get an overview of a topic you are not yet familiar with. Such encyclopedias, however, are not quotable, just like printed popular encyclopedias: once you are treating the topic in an academic paper, you must look for academic sources for the topic.
