@@ -33,11 +33,11 @@ LibreOffice is a word processing program and part of the LibreOffice program sui
 
 For further information and downloads see <http://www.libreoffice.org/>.
 
-### Templates
+### Paragraph Styles
 
-The key to using word processors are the templates. These allow you to assign not only a certain formatting to text parts (e.g. font size 14pt, bold font), but also a meaning (e.g. first-order headline). This allows among other things:
+The key to using word processors are the paragraph styles. These allow you to assign not only a certain formatting to text parts (e.g. font size 14pt, bold font), but also a meaning (e.g. first-order headline). This allows among other things:
 
-- Later, you can change formatting at a stroke (e.g. all headings of the first order, font size 16pt),
+- Later, you can change formatting in a single stroke (e.g. all headings of the first order, font size 16pt),
 
 - automatic table of contents,
 
@@ -85,4 +85,4 @@ In order to avoid unnecessary problems, the following guidelines should therefor
 
     -   The fonts used must be available on the recipient's computer to obtain the same display. This is not always the case, especially with foreign language characters (Hebrew, Arabic, etc.). 
 
-    -   The recommended file format is currently the "doc/x" format of Microsoft Word. Due to its wide distribution, it can also be read by other word processors, such as LibreOffice. The ODT file format is also possible as an exchange format. It is already used as a standard format by LibreOffice and is also supported by Microsoft Word. In case of doubt, ask the recipient which format they prefer.
+    -   The recommended file format is currently the "docx" format of Microsoft Word. Due to its wide distribution, it can also be read by other word processors, such as LibreOffice. The ODT file format is also possible as an exchange format. It is already used as a standard format by LibreOffice and is also supported by Microsoft Word. The older "doc" format of Microsoft Word is outdated and vulnerable to potential security issues. It should no longer be used. In case of doubt, ask the recipient which format they prefer.
