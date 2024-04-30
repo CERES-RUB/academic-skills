@@ -155,17 +155,30 @@ When reading the text, it is useful to work with markings and notes in the margi
 
 -   **Non-linguistic annotations:** Small symbols can be used to characterize text passages. This can be done directly in the text or in the margin. See the table below for examples.
 
-    | Symbol | Meaning      |
-    |:-------:|:---------------|
-    |   !     | Important        |
-    |   ?     | Incomprehensible |
-    |  Def.   | Definition     |
-    | 1.2.3.  | Enumeration     |
-    |   ⁈     | Contradiction    |
-
 -   **Linguistic notes:** Short remarks and notes on the contents of a paragraph can be noted directly in the margin. More detailed thoughts can also be noted on the back of the text.
 
-Markings and annotations should of course only be made on texts that belong to you personally. Therefore, it makes sense to work with photocopies instead of borrowed books. Texts can also be archived for later reading.
+Markings and annotations should of course only be made on texts that belong to you personally, not in borrowed books. It therefore makes sense to either make annotations in the digital version of a text, for example on a tablet, or to work with copies or printouts. Reading on a laptop/PC is also possible, but it is often more difficult to cognitively process what has been read.
+
+| Structure category | Related question/explanation | Note in the margin |
+| --------------------------- | ------------------------------------------------------------ | ----------------- |
+| Topic/Subject | What is it about in general?                                     | Topic |
+| Focus | What is it about in particular?                                 | Focus              |
+| Research question | What should be found out?                              | RQ |
+| Definition | How exactly are key terms understood?               | Def.              |
+| Aim | What is the aim of the text? What does it want to find out, show, question or similar? | Aim |
+| Theses | What is/are the proposed answer(s) to the research question?           | T or T1, T2, ... |
+| Data basis | What material is being used? What material is the research question aimed at and from what are theses derived? | Data
+| Method/theory | Which perspective and which "tool" does the text use to approach the topic? How and on what intellectual basis is the question answered? | M/T |
+| State of research | What academic literature has been published on the topic or the specific focus to date that the text builds on? | SoR |
+| Announced procedure | How does the text proceed in detail? What steps does the text take in its course? | Procedure |
+| Core statements | What are the central statements of the text?                  | • |
+| Enumeration | Where does the text mention several points that are dealt with one after the other? Especially implicit enumerations. | 1./2./3./... |
+| Particularly relevant | What else is particularly relevant for me, my project, my own question or my personal interest? | !                 |
+| Unclear | Which terms are unclear to me? Which statements can I not understand? | ?                 |
+| Contradiction | Which statements do I disagree with?               | X |
+
+Table: Structural categories for marginal notes. Source: Partly taken and translated from Roers, Benjamin. 2020. "Geschichte und Gegenwart meiner Notizen". tub.torials (blog). 10 December 2020. <https://www.tub.tuhh.de/tubtorials/2020/12/11/vergangenheit-und-gegenwart-meiner-notizen/> under the licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Own adaptations.
+
 
 #### »Skim Reading« {#sec:skim_reading}
 
