@@ -25,31 +25,31 @@ A first good introduction to finding literature is provided by encyclopedias rel
 
 Please note, however, that a paper should never be based solely on encyclopedia articles. In addition, some of the encyclopedias (or the individual volumes) are older, so you cannot rely on finding up-to-date references there. Some reliable encyclopedias for religious studies are:
 
-•	The Oxford Handbook of the Study of Religion, ed. by Michael Stausberg, Steven Engler, Oxford 2016.
+-   The Oxford Handbook of the Study of Religion, ed. by Michael Stausberg, Steven Engler, Oxford 2016.
 
-•	The Routledge Handbook of Research Methods in the Study of Religion, ed. by Michael Stausberg, Steven Engler, London 2011.
+-   The Routledge Handbook of Research Methods in the Study of Religion, ed. by Michael Stausberg, Steven Engler, London 2011.
 
-•	The Routledge Companion to the Study of Religion, second edition, ed. by John R. Hinnels, London/New York 2010.
+-   The Routledge Companion to the Study of Religion, second edition, ed. by John R. Hinnels, London/New York 2010.
 
-•	The Encyclopedia of Religion, 16 Volumes, ed. by Mircea Eliade, New York/London 1987.
+-   The Encyclopedia of Religion, 16 Volumes, ed. by Mircea Eliade, New York/London 1987.
 
-•	The Encyclopaedia of Islam, 12 Volumes, second edition, ed. by P.J. Bearman, Th. Bianquis, C.E. Bosworth, E. van Donzel and W.P. Heinrichs, Leiden 1860-2004.
+-   The Encyclopaedia of Islam, 12 Volumes, second edition, ed. by P.J. Bearman, Th. Bianquis, C.E. Bosworth, E. van Donzel and W.P. Heinrichs, Leiden 1860-2004.
 
-•	Encyclopaedia Judaica, 22 Volumes, second edition, ed. by Fred Skolnik, Detroit 2007.
+-   Encyclopaedia Judaica, 22 Volumes, second edition, ed. by Fred Skolnik, Detroit 2007.
 
 In German:
 
-•	Handbuch religionswissenschaftlicher Grundbegriffe, 5 Bände, hrsg. von Hubert Cancik, Burkhard Gladigow und Karl Heinz Kohl, Stuttgart 1988–2002.
+-   Handbuch religionswissenschaftlicher Grundbegriffe, 5 Bände, hrsg. von Hubert Cancik, Burkhard Gladigow und Karl Heinz Kohl, Stuttgart 1988–2002.
 
-•	Religion in Geschichte und Gegenwart. Handwörterbuch für Theologie und Religionswissenschaft, 8 Bände, vierte Aufl. hrsg. von Hans Dieter Betz u.a., Tübingen 2000–2005.
+-   Religion in Geschichte und Gegenwart. Handwörterbuch für Theologie und Religionswissenschaft, 8 Bände, vierte Aufl. hrsg. von Hans Dieter Betz u.a., Tübingen 2000–2005.
 
-•	Metzler Lexikon Religion: Gegenwart – Alltag – Medien, 3 Bände, hrsg. von Christoph Auffarth, Stuttgart u.a. 1999–2000.
+-   Metzler Lexikon Religion: Gegenwart – Alltag – Medien, 3 Bände, hrsg. von Christoph Auffarth, Stuttgart u.a. 1999–2000.
 
-•	Theologische Realenzyklopädie, in Gemeinschaft mit Horst Robert Balz et al. hrsg. von Gerhard Krause und Gerhard Müller, 36 Bände, Berlin/New York 1977–2004.
+-   Theologische Realenzyklopädie, in Gemeinschaft mit Horst Robert Balz et al. hrsg. von Gerhard Krause und Gerhard Müller, 36 Bände, Berlin/New York 1977–2004.
 
-•	Der neue Pauly. Enzyklopädie der Antike, 15 Bände, hrsg. von Hubert Cancik, HelmuthSchneider und Manfred Landfester, Stuttgart 1966 ff.
+-   Der neue Pauly. Enzyklopädie der Antike, 15 Bände, hrsg. von Hubert Cancik, HelmuthSchneider und Manfred Landfester, Stuttgart 1966 ff.
 
-•	Historisches Wörterbuch der Philosophie, völlig neubearb. Ausg. des »Wörterbuchs der philosophischen Begriffe« von Rudolf Eisler, unter Mitw. von mehr als 800 Fachgelehrten in Verbindung mit Günther Bien u.a. hrsg. von Joachim Ritter und Karlfried Gründer, 12 Bände, Darmstadt 1971–2004.
+-   Historisches Wörterbuch der Philosophie, völlig neubearb. Ausg. des »Wörterbuchs der philosophischen Begriffe« von Rudolf Eisler, unter Mitw. von mehr als 800 Fachgelehrten in Verbindung mit Günther Bien u.a. hrsg. von Joachim Ritter und Karlfried Gründer, 12 Bände, Darmstadt 1971–2004.
 
 ### Library Catalogs
 
@@ -65,15 +65,15 @@ Library catalogs are generally not suitable for finding articles in anthologies 
 
 **Tips for research**
 
-–	In library catalogs you usually search for literature by keywords. Remember to find synonyms for your topic and possibly try keywords in different languages. Your topic can be very specific; consider under which keywords you might find publications that deal with this topic (for example, if you are looking for literature on the definition of religious communities, you will not necessarily find a book with the same title - in an "Introduction to the Sociology of Religion", on the other hand, you will certainly find something).
+-   In library catalogs you usually search for literature by keywords. Remember to find synonyms for your topic and possibly try keywords in different languages. Your topic can be very specific; consider under which keywords you might find publications that deal with this topic (for example, if you are looking for literature on the definition of religious communities, you will not necessarily find a book with the same title - in an "Introduction to the Sociology of Religion", on the other hand, you will certainly find something).
 
-–	Library catalogs themselves also work with keywords. These can be found in the details of a book. Perhaps one of them fits your topic well - you can find out with a simple click which books the library staff have marked with this keyword. The advantage of this is that you don't have to rely on your search term appearing in the title of a book - the keywords can also cover general topics or content.
+-   Library catalogs themselves also work with keywords. These can be found in the details of a book. Perhaps one of them fits your topic well - you can find out with a simple click which books the library staff have marked with this keyword. The advantage of this is that you don't have to rely on your search term appearing in the title of a book - the keywords can also cover general topics or content.
 
-–	Have you found a current dissertation or habilitation thesis on the topic? Lucky hit! Because these theses usually contain a detailed state of research on their topic themselves, which should include all relevant publications.
+-   Have you found a current dissertation or habilitation thesis on the topic? Lucky hit! Because these theses usually contain a detailed state of research on their topic themselves, which should include all relevant publications.
 
-–	If you have found a relevant book, you should also look to the right and left of it on the shelf. As a rule, thematically related books are grouped together, so that you can find books here that you might not have found in the catalog.
+-   If you have found a relevant book, you should also look to the right and left of it on the shelf. As a rule, thematically related books are grouped together, so that you can find books here that you might not have found in the catalog.
 
-–	Be sure to take part in an introduction to the university library and library catalogs at the beginning of your studies. These guided tours are usually free of charge and regularly offered by library staff.
+-   Be sure to take part in an introduction to the university library and library catalogs at the beginning of your studies. These guided tours are usually free of charge and regularly offered by library staff.
 
 ### Literature Databases
 
@@ -109,51 +109,51 @@ If you document your search process, you may save yourself some work. Note down 
 
 An important skill that you will need to learn during your studies is the skillful handling of large amounts of academic literature and a quick and reliable assessment of its utility for your needs. This is also a matter of practice; however, we would like to give you some tips at this point:
 
-- You can already see from the cover and/or the table of contents what the aim of the book is: is it a research study or a teaching book; does it provide an overview or does it go into a topic in depth?
+-   You can already see from the cover and/or the table of contents what the aim of the book is: is it a research study or a teaching book; does it provide an overview or does it go into a topic in depth?
 
-- A basic rule: not everything that can be found in university libraries is of high academic quality. Here you will find both publications of popular science as well as normative publications of a specific publisher. Always critically examine the premises, style and argumentation of a work.
+-   A basic rule: not everything that can be found in university libraries is of high academic quality. Here you will find both publications of popular science as well as normative publications of a specific publisher. Always critically examine the premises, style and argumentation of a work.
 
-- Who is the author of the selected work? From what discipline or school are they from? What else have they published and what are their main areas of work?
+-   Who is the author of the selected work? From what discipline or school are they from? What else have they published and what are their main areas of work?
 
-- When is the publication date? Is it sufficiently current for the topic? Does it possibly originate from a context/era that might affect its arguments (e.g. colonialism, National Socialism)?
+-   When is the publication date? Is it sufficiently current for the topic? Does it possibly originate from a context/era that might affect its arguments (e.g. colonialism, National Socialism)?
 
-- In which series or publishing house did the publication appear or in which journal did the article appear? What does this series/ this publishing house/ this journal stand for? Who is the editor?
+-   In which series or publishing house did the publication appear or in which journal did the article appear? What does this series/ this publishing house/ this journal stand for? Who is the editor?
 
-- How detailed, up-to-date and academic is the bibliography? To which disciplines does the author refer?
+-   How detailed, up-to-date and academic is the bibliography? To which disciplines does the author refer?
 
 ### Reading Techniques {#sec:reading_techniques}
 
 Not only writing but also reading academic texts must be practiced. Depending on your interests and requirements, different forms of reading can be applied. Before reading, one should therefore consider what goals are associated with reading a text. This determines the general conditions of the reading:
 
-- Is the text course literature, the basis for a paper or exam content?
+-   Is the text course literature, the basis for a paper or exam content?
 
-- Is the text only of interest due certain of its contents, or is it a general overview?
+-   Is the text only of interest due certain of its contents, or is it a general overview?
 
-- What previous knowledge on the topic of the text is already available?
+-   What previous knowledge on the topic of the text is already available?
 
-- How much time can be spent on reading?
+-   How much time can be spent on reading?
 
 #### Analytical Reading {#sec:analytical_reading}
 
 The most important reading method is analytical reading. The aim is to understand all central concepts of a text and to work out the theses and trains of thought. A critical approach to the text should be taken, and both successful aspects and weaknesses should be uncovered. The so-called PQ4R formula can be helpful in this process:
 
-–	**P**review: First overview of the text
+-   **P**review: First overview of the text
 
-–	**Q**uestion: Formulate questions directed to the text
+-   **Q**uestion: Formulate questions directed to the text
 
-–	**R**ead: Read the text
+-   **R**ead: Read the text
 
-–	**R**eflect: Reflect upon the contents and their context
+-   **R**eflect: Reflect upon the contents and their context
 
-–	**R**ecite: Reproduce the content (e.g. in form of a summary)
+-   **R**ecite: Reproduce the content (e.g. in form of a summary)
 
-–	**R**eview: Review of your own reading
+-   **R**eview: Review of your own reading
 
 When reading the text, it is useful to work with markings and notes in the margins. In this way, important and unimportant things are distinguished from each other while reading and the content can be more easily absorbed. It also makes it easier to re-read the text at a later time. Three forms of annotation can be distinguished:
 
-- **Marking:** Either marking with a highlighter or underlining with pencil or crayon. You can also use different colors for different meanings, e.g. red=important, black=“Terms and definitions”, etc.
+-   **Marking:** Either marking with a highlighter or underlining with pencil or crayon. You can also use different colors for different meanings, e.g. red=important, black=“Terms and definitions”, etc.
 
-- **Non-linguistic annotations:** Small symbols can be used to characterize text passages. This can be done directly in the text or in the margin. Examples can be:
+-   **Non-linguistic annotations:** Small symbols can be used to characterize text passages. This can be done directly in the text or in the margin. See the table below for examples.
 
     | Symbol | Meaning      |
     |:-------:|:---------------|
@@ -163,7 +163,7 @@ When reading the text, it is useful to work with markings and notes in the margi
     | 1.2.3.  | Enumeration     |
     |   ⁈     | Contradiction    |
 
-- **Linguistic notes:** Short remarks and notes on the contents of a paragraph can be noted directly in the margin. More detailed thoughts can also be noted on the back of the text.
+-   **Linguistic notes:** Short remarks and notes on the contents of a paragraph can be noted directly in the margin. More detailed thoughts can also be noted on the back of the text.
 
 Markings and annotations should of course only be made on texts that belong to you personally. Therefore, it makes sense to work with photocopies instead of borrowed books. Texts can also be archived for later reading.
 
@@ -171,7 +171,7 @@ Markings and annotations should of course only be made on texts that belong to y
 
 In order to gain an overview of the core contents of a text in a short time, there are various reading strategies:
 
-- **Selective reading:** With selective reading only parts of the text are read. The sections to be read are selected in such a way that the central information can be captured as far as possible. If necessary, additional sections can then be consulted. The following procedure can be used for guidance:
+-   **Selective reading:** With selective reading only parts of the text are read. The sections to be read are selected in such a way that the central information can be captured as far as possible. If necessary, additional sections can then be consulted. The following procedure can be used for guidance:
 
 1. First, look at the table of contents, if available. If there is no table of contents (e.g. for articles), the subheadings can be consulted. In this way it can be seen how the author has arranged the topic and which sections of the text are relevant for your own work.
 
@@ -183,9 +183,9 @@ In order to gain an overview of the core contents of a text in a short time, the
 
 If you have a specific focus in terms of content or methodology, for example in relation to a paper or a presentation, the text can be read from a certain angle and irrelevant passages can be omitted. It can be helpful to cross out passages that are not thematically relevant with a pencil. An important additional source of assistance is the keyword index, if available.
 
-- **Searching reading:** This type of reading aims to read a text as quickly as possible and still obtain important information. You should be clear beforehand which words or terms you want to find. The text is then searched for them and, if the terms do not occur, it need not be consulted further.
+-   **Searching reading:** This type of reading aims to read a text as quickly as possible and still obtain important information. You should be clear beforehand which words or terms you want to find. The text is then searched for them and, if the terms do not occur, it need not be consulted further.
 
-- **Cursory reading:** Also a fast method. As with the searching method, more precise details are neglected. The point is to grasp the broader context and meaning of a text. As a result of this reading process, it should be clear which questions are addressed in the text. With this technique, the eyes only scan the text, not reading line by line. It is recommended to write down one or two key points per page.
+-   **Cursory reading:** Also a fast method. As with the searching method, more precise details are neglected. The point is to grasp the broader context and meaning of a text. As a result of this reading process, it should be clear which questions are addressed in the text. With this technique, the eyes only scan the text, not reading line by line. It is recommended to write down one or two key points per page.
 
 ![Schematic illustration of cursory reading](images/Kursorisches_Lesen.png)
 
