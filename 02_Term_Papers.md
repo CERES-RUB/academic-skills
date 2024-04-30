@@ -183,7 +183,7 @@ If you have written a neatly structured introduction, you can now "backtrack" th
 
 ### Bibliography and Appendices
 
-At the end of the paper there should be a complete list of all literature used. The bibliography should not be filled up with literature that is not cited in the text. If a publication is important in terms of content, it should be cited, otherwise it does not have to be included in the bibliography. For the formatting of the bibliography see the section [Citing Literature](05_Citing_Literature.html#sec:citing_literature).
+At the end of the paper there should be a complete list of all literature used. The bibliography should not be filled up with literature that is not cited in the text. If a publication is important in terms of content, it should be cited, otherwise it does not have to be included in the bibliography. For the formatting of the bibliography see the section [Citing Literature](05_Citing_Literature.html#sec:citing).
 
 Papers that are rich in material can also contain one or more appendices, in which e.g. illustrations, source texts or similar can be placed. The appendices do not count for determining the length of the paper.
 

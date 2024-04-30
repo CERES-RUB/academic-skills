@@ -15,7 +15,7 @@ Presentations are a common form of assignment. In order for a presentation to fu
 
 Presentations can serve different purposes and take different forms, and the following types can be distinguished:
 
-The aim of a _presentation on a text_ is to present a text that has either been read by all fellow students or serves as a supplement to the seminar. It is important to present the text in such a way that everyone can understand it. The structure of a presentation on a text follows the general rules of structure (see the section [Structure of the Presentation](#sec:structure)).  However, the main part of a presentation on a text differs from that of a presentation on a topic:
+The aim of a _presentation on a text_ is to present a text that has either been read by all fellow students or serves as a supplement to the seminar. It is important to present the text in such a way that everyone can understand it. The structure of a presentation on a text follows the general rules of structure (see the section [Structure of the Presentation](#sec:presentation_structure)).  However, the main part of a presentation on a text differs from that of a presentation on a topic:
 
 First, the author of the text should be briefly introduced. It is important to consider the relevance of biographical data for the presentation. In any case, it makes sense to mention biographical data, historical embedding and the context of academic socialization (the author's education). In cases of doubt, it is also recommended to consult with the lecturers.
 
@@ -37,7 +37,7 @@ In addition, consideration should be given to the form in which the participants
 
 –	a quiz, for example, at the end of the lesson
 
-## Structure of the Presentation {#sec:structure}
+## Structure of the Presentation {#sec:presentation_structure}
 
 Depending on the role of the presentation in the design of the seminar, presentations can be structured differently. The presentation should be based on the guidelines. However, there are a few general points which must be observed.
 
