@@ -120,29 +120,29 @@ After the footnote citation method, the titles are given in the bibliography in 
 
 a)  Monographs:[^4]  
     
-Last name, first name: title, edition (if applicable), place: publisher year.
+Family name, Given name. *Title*. Edition (if applicable). Place: Publisher, Year.
 
-Luckmann, Thomas: Die unsichtbare Religion, 2nd edition, Frankfurt am Main: Suhrkamp 1993.
+Luckmann, Thomas. *Die unsichtbare Religion*. 2nd ed. Frankfurt am Main: Suhrkamp, 1993.
 
-b)  Essays in anthologies:
+b)  Chapters in edited volumes:
 
-Last name, first name <span>*(of the author)*</span>: "Title of the essay", in: First name Last name <span>*(of the editor)*</span> (ed.): Title of the anthology, if applicable edition, place: publisher year, pp. Pages of the essay.
+Family name, Given name (of the chapter).  Title of the Chapter.  In *Title of the Volume*, edited by Given name Family name (of the editor), page range of the chapter. Place: Publisher, Year.
 
-Asad, Talal: "The Construction of Religion as an Anthropological Category", in: Michael Lambek (ed.): A reader in the anthropology of religion, Malden, MA: Blackwell Publishers 2002, pp. 114-132 . 
-    
-Boyarin, Daniel: "Hybridity and Heresy: Apartheid Comparative Religion in Late Antiquity", in: Ania Loomba (ed.): Postcolonial Studies and Beyond, Durham, NC: DukeUniversity Press 2005, pp. 339-358.
+Asad, Talal.  The Construction of Religion as an Anthropological Category.  In *A Reader in the Anthropology of Religion*, edited by Michael Lambek, 114–32. Blackwell Anthologies in Social and Cultural Anthropology 2. Malden, MA: Blackwell, 2002.
+
+Boyarin, Daniel.  Hybridity and Heresy: Apartheid Comparative Religion in Late Antiquity.  In *Postcolonial Studies and Beyond*, edited by Ania Loomba, Suvir Kaul, Matti Bunzl, Antoinette Burton, and Jed Esty, 339–58. Durham/London: Duke University Press, 2005.
     
 c)  Journal articles:  
     
-Last name, first name: "Title", *journal* volume/​number (year), pp. Pages of the article.  
+Family name, Given name.  Title of the Article.  *Journal* Volume, no. Number (Year): Page range. https://doi.org/DOI.
 
-von Stuckrad, Kocku: "Discursive Study of Religion: From States of the Mind to Communication and Action", *Method & Theory in the Study of Religion* 15/3 (2003), pp. 255–271.
+Stuckrad, Kocku von.  Discursive Study of Religion: From States of the Mind to Communication and Action.  *Method & Theory in the Study of Religion* 15, no. 3 (2003): 255–71. https://doi.org/10.1163/157006803322393387.
 
 d)  Encyclopedia articles:  
     
-Last name, first name: "Article", in: Encyclopedia Vol. Volume, possibly edition, year, p(p). Page(s) of the article. 
+Avi-Yonah, Michael.  Adoraim.  In *Encyclopaedia Judaica*, 1:420. Detroit: Thomson Gale, 2007.
 
-Avi-Yonah, Michael: "Adoraim", in: Encyclopaedia Judaica Vol. 1, 2nd ed., 2006, p. 214.
+Family name, Given name.  Title of the Lemma.  In *Encyclopaedia*, Volume:Page range. Place: Publisher, Year.
 
 ## Author-Year Citation Method
 
@@ -163,29 +163,29 @@ Since the references in the text do not contain complete bibliographical informa
 
 a)  Monographs:[^7]  
 
-Last name, first name (year): title, edition (if applicable), place: publisher.
+Family name, Given name. Year. *Title*. Edition (if applicable). Place: Publisher.
 
-Luckmann, Thomas (1993): Die unsichtbare Religion, 2nd edition., Frankfurt am Main: Suhrkamp.
+Luckmann, Thomas. 1993. *Die unsichtbare Religion*. 2nd ed. Frankfurt am Main: Suhrkamp.
 
-b)  Essays in anthologies: 
+b)  Chapters in edited volumes: 
 
-Last name, first name <span>*(of the author)*</span> (year): "Title of the essay, in: First name Last name <span>*(of the editor)*</span> (ed.): Title of the anthology, if applicable edition, place: publisher, pp. pages of the essay.
+Family name, Given name (of the chapter). Year.  Title of the Chapter.  In *Title of the Volume*, edited by Given name Family name (of the editor), page range of the chapter. Place: Publisher.
 
-Asad, Talal (2002): "The Construction of Religion as an Anthropological Category", in: Michael Lambek (ed.): A reader in the anthropology of religion, Malden, MA: Blackwell Publishers, pp. 114-132.  
+Asad, Talal. 2002.  The Construction of Religion as an Anthropological Category.  In *A Reader in the Anthropology of Religion*, edited by Michael Lambek, 114–32. Blackwell Anthologies in Social and Cultural Anthropology 2. Malden, MA: Blackwell.
 
-Boyarin, Daniel (2005): "Hybridity and Heresy: Apartheid Comparative Religion in Late Antiquity", in: Ania Loomba (ed.): Postcolonial Studies and Beyond, Durham, NC: Duke University Press, pp. 339-358.
+Boyarin, Daniel. 2005.  Hybridity and Heresy: Apartheid Comparative Religion in Late Antiquity.  In *Postcolonial Studies and Beyond*, edited by Ania Loomba, Suvir Kaul, Matti Bunzl, Antoinette Burton, and Jed Esty, 339–58. Durham/London: Duke University Press.
 
 c)  Journal articles: 
 
-Last name, first name (year): "Title, *journal* volume/​number, pp. Pages of the article.  
+Family name, Given name. Year.  Title of the Article.  *Journal* Volume (Number): Page range. https://doi.org/DOI.
 
-von Stuckrad, Kocku (2003): "Discursive Study of Religion: From States of the Mind to Communication and Action", *Method & Theory in the Study of Religion* 15/3, S. 255–271.
+Stuckrad, Kocku von. 2003.  Discursive Study of Religion: From States of the Mind to Communication and Action.  *Method & Theory in the Study of Religion* 15 (3): 255–71. https://doi.org/10.1163/157006803322393387.
 
 d)  Encyclopedia articles:  
 
-Name, Vorname (Jahr): "Artikel", in: encyclopedia Vol. volume, if necessary edition, p(p). page(s) of the article.  
+Family name, Given name. Year.  Title of the Lemma.  In *Encyclopaedia*, Edition (if applicable), Volume:Page range. Place: Publisher.
 
-Avi-Yonah, Michael (2006): "Adoraim", in: Encyclopaedia Judaica Vol. 1, 2nd ed., p. 214.
+Avi-Yonah, Michael. 2007.  Adoraim.  In *Encyclopaedia Judaica*, 2nd ed., 1:420. Detroit: Thomson Gale.
 
 <div class="Advice">
 
@@ -230,7 +230,7 @@ Roughly speaking, websites can be divided into three categories:
 1.  Academic online journals such as the Forum Qualitative Social Research (<http://www.qualitative-research.net/>) can be used like traditional print journals. Since complete authorial information is also available here, the citation is similar to other journal articles, with two modifications: Firstly, the Internet address (URL) and date of access must be given, and secondly, no page numbers are available for online sources, such that citation must be based on paragraph number or other criteria.
 
     Example:[^8]  
-    Witzel, Andreas (2000): "The Problem-centered Interview", in: *Forum: Qualitative Social Research* 1/1, Art. 22, https://doi.org/10.17169/fqs-1.1.1132 (last access: 05.02.21).
+    Witzel, Andreas. 2000. “The Problem-Centered Interview.” Forum Qualitative Sozialforschung / Forum: Qualitative Social Research 1 (1). https://doi.org/10.17169/fqs-1.1.1132.
 
 2.  Popular online encyclopedia websites such as Wikipedia (<http://de.wikipedia.org/>) are handy reference works to get an overview of a topic you are not yet familiar with. Such encyclopedias, however, are not quotable, just like printed popular encyclopedias: once you are treating the topic in an academic paper, you must look for academic sources for the topic.
 
@@ -248,7 +248,7 @@ If no title is given on the page itself, in most cases you can at least use the 
 
 If the website is the homepage of an organization, but the text cannot be attributed to a single person, the organization can be listed as the author:
 
-Church of Scientology International (n.y.): *L. Ron Hubbard*, https://www.scientology.org/l-ron-hubbard/ (last access: 05.02.2021).
+Church of Scientology International. n.d. “L. Ron Hubbard.” Accessed May 14, 2024. https://www.scientology.org/l-ron-hubbard/.
 
 <div class="Advice">
 
@@ -280,7 +280,7 @@ Working with the corresponding computer programs is difficult to teach with pure
 
 </div>
 
-[^1]: Talal Asad: “The Construction of Religion as an Anthropological Category”, in: Michael Lambek (Ed.): A reader in the anthropology of religion, Malden, MA: Blackwell Publishers 2002, p. 114–132, here, p. 116.
+[^1]: Talal Asad, “The Construction of Religion as an Anthropological Category,” in *A Reader in the Anthropology of Religion*, ed. Michael Lambek, Blackwell Anthologies in Social and Cultural Anthropology 2 (Malden, MA: Blackwell, 2002), 116.
 
 [^2]: Asad: “The Construction of Religion”, 116.
 
