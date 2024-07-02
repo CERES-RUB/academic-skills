@@ -11,7 +11,7 @@ The mode of production of academia is the writing of texts. Therefore, a good wo
 
 ## Office Applications {#sec:office}
 
-Office word processors are the most common, especially Microsoft Word. Equal (or even superior) to this for most applications for academic work is the program Writer from the LibreOffice package. The latter is also attractive for students because it can be downloaded free of charge from the internet.
+Office word processors are the most common, especially Microsoft Word. Equal (or even superior) to this for most applications for academic work is the program Writer from the LibreOffice package. The latter is also attractive for students because it can be downloaded free of charge.
 
 Office word processors offer a comfortable possibility to enter texts directly in the way they will (probably) look later in print. However, this tempts one to fixate on the formal appearance of one’s output. Later on, this can make corrections and formatting changes more difficult. Therefore, some details for the use of these programs must be observed.
 
@@ -25,13 +25,13 @@ Word processors save documents by default in their own formats, which cannot be 
 
 Microsoft Word is a popular word processing program and part of the "Microsoft Office" program package. Microsoft Office is sold in different versions with different features, usually including at least Microsoft Word (word processing), Microsoft Excel (spreadsheets) and Microsoft PowerPoint (presentations). Microsoft Office is available for the Windows and MacOSX operating systems.
 
-For more information see <https://www.microsoft.com/en-us/microsoft-365?rtc=1>.
+As a student of RUB, you can use Microsoft Office 365 free of charge as long as you are enrolled. For more information see <https://www.it-services.ruhr-uni-bochum.de/services/software/microsoft.html.de>.
 
 **LibreOffice Writer**
 
-LibreOffice is a word processing program and part of the LibreOffice program suite. LibreOffice includes Writer (word processing), Calc (spreadsheet), Impress (presentations) and other components for graphics, mathematical formulas and databases. Unlike Microsoft Office, LibreOffice is available free of charge as open source software. LibreOffice is available for the operating systems Windows, MacOSX, Linux and others. 
+LibreOffice Writer is a word processing program and part of the LibreOffice program suite. LibreOffice includes Writer (word processing), Calc (spreadsheet), Impress (presentations) and other components for graphics, mathematical formulas and databases. Unlike Microsoft Office, LibreOffice is available free of charge as open source software. You can use it freely even after leaving the university. LibreOffice is available for the operating systems Windows, MacOSX, Linux and others. 
 
-For further information and downloads see <http://www.libreoffice.org/>.
+For further information and downloads see <https://www.libreoffice.org/>.
 
 ### Paragraph Styles
 
@@ -51,9 +51,10 @@ To ensure that the information in the table of contents actually corresponds to 
 
 It is also recommended to use so-called "fields" for references in the text (e.g. to other chapters), which are also updated automatically. And the page numbers themselves should always be updated automatically.
 
+<!--
 ## LaTeX {#sec:latex}
 
-The typesetting system LaTeX is an alternative to common word processors. It can also be downloaded free of charge from the Internet. Its use takes a lot of getting used to at the beginning and requires considerably more training time than a conventional word processor. This is compensated for by a number of advantages. Some problems which cannot be solved at all in the common word processors are almost always treatable in in LaTeX. In addition, LaTeX documents look much more professional than documents from conventional word processors, even in the default settings.
+The typesetting system LaTeX is an alternative to common word processors. It can also be downloaded free of charge. Its use takes a lot of getting used to at the beginning and requires considerably more training time than a conventional word processor. This is compensated for by a number of advantages. Some problems which cannot be solved at all in the common word processors are almost always treatable in in LaTeX. In addition, LaTeX documents look much more professional than documents from conventional word processors, even in the default settings.
 
 The big difference between LaTeX and other word processors is that you don't write directly in a page view, rather special formatting commands are entered. If you know HTML, you will be familiar with this. The advantage of this approach is that you always have full control over formatting, whereas with classical word processors formatting is always done in the background, which is not always traceable. The disadvantage is that you have to learn the formatting commands first.
 
@@ -68,6 +69,7 @@ Getting started with LaTeX can be a bit confusing as LaTeX consists of different
 3. An output file viewer, usually a PDF viewer.
 
 The distribution "TeXLive" includes all necessary components and can be downloaded from <http://www.tug.org/texlive/>. TeXLive is available for Windows, MacOSX, Linux and other systems.
+-->
 
 ## File Formats {#sec:file_formats}
 
@@ -83,6 +85,8 @@ In order to avoid unnecessary problems, the following guidelines should therefor
 
     -   Different settings may result in different page breaks than the author intended.
 
-    -   The fonts used must be available on the recipient's computer to obtain the same display. This is not always the case, especially with foreign language characters (Hebrew, Arabic, etc.). 
+    -   The fonts used must be available on the recipient's computer to obtain the same display. This is not always the case, especially with non-latin language characters (Hebrew, Arabic, etc.). 
 
     -   The recommended file format is currently the "docx" format of Microsoft Word. Due to its wide distribution, it can also be read by other word processors, such as LibreOffice. The ODT file format is also possible as an exchange format. It is already used as a standard format by LibreOffice and is also supported by Microsoft Word. The older "doc" format of Microsoft Word is outdated and vulnerable to potential security issues. It should no longer be used. In case of doubt, ask the recipient which format they prefer.
+
+    - Do not use formats that are specific to a certain application or operating system, like Apple's "Pages" format.
